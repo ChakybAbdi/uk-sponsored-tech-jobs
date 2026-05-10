@@ -1,0 +1,22 @@
+{
+    "title": "UK Sponsored Tech Jobs — Input",
+    "type": "object",
+    "schemaVersion": 1,
+    "properties": {
+        "minFitScore": {
+            "title": "Minimum fit score",
+            "type": "integer",
+            "description": "Filter out jobs scoring below this. Default 0 keeps everything.",
+            "default": 0,
+            "editor": "number"
+        },
+        "maxJobsPerQuery": {
+            "title": "Max jobs per LinkedIn search query",
+            "type": "integer",
+            "description": "How many jobs to pull per query (6 queries total).",
+            "default": 200,
+            "editor": "number"
+        }
+    },
+    "required": []
+}

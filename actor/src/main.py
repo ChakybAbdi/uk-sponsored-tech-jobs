@@ -199,7 +199,7 @@ async def scrape_jobs() -> list[dict[str, Any]]:
         run_input = {
             "keywords":   q["title"],
             "location":   q["location"],
-            "maxItems":   200,
+            "maxItems":   100,
             "datePosted": "week",   # past 7 days
         }
         try:

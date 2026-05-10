@@ -41,7 +41,9 @@ GOV_UK_REGISTER_PAGE = (
 )
 
 # LinkedIn Jobs scraper actor on Apify (cookieless, public-API-based)
-LINKEDIN_JOBS_ACTOR_ID = "bebity/linkedin-jobs-scraper"
+# bebity is paid-rental as of May 2026; cryptosignals uses LinkedIn's
+# public guest API, no auth, ~$4.99/month or pay-per-event.
+LINKEDIN_JOBS_ACTOR_ID = "cryptosignals/linkedin-jobs-scraper"
 
 # Search queries — broad net (AI/ML + SDE), all UK
 SEARCH_QUERIES: list[dict[str, str]] = [
@@ -131,17 +133,20 @@ async def download_and_filter_sponsors(
     df = pd.read_csv(io.BytesIO(resp.content))
     df.columns = [c.strip() for c in df.columns]
 
-    # Column names have varied historically; resolve them defensively.
-    name_col   = next(c for c in df.columns if "organisation" in c.lower() or "name" in c.lower())
+    # Real schema (verified May 2026): 'Organisation Name', 'Town/City',
+    # 'County', 'Type & Rating', 'Route'.
+    name_col   = next(c for c in df.columns if "organisation" in c.lower())
     route_col  = next(c for c in df.columns if "route" in c.lower())
     rating_col = next(c for c in df.columns if "rating" in c.lower())
 
     Actor.log.info("Sponsor CSV loaded: %d rows, columns=%s", len(df), list(df.columns))
 
     # Filter: Skilled Worker route, A-rated only.
+    # 'Type & Rating' column contains values like 'Worker (A rating)' or
+    # 'Temporary Worker (B rating)' — match the parenthesized rating.
     filtered = df[
         df[route_col].astype(str).str.contains("Skilled Worker", case=False, na=False)
-        & df[rating_col].astype(str).str.contains(r"\bA\b", case=False, na=False, regex=True)
+        & df[rating_col].astype(str).str.contains(r"\(A\s*rating\)", case=False, na=False, regex=True)
     ].copy()
 
     filtered = filtered.rename(columns={
@@ -189,11 +194,13 @@ async def scrape_jobs() -> list[dict[str, Any]]:
 
     for q in SEARCH_QUERIES:
         Actor.log.info("Scraping LinkedIn for: %(title)s in %(location)s", q)
+        # cryptosignals/linkedin-jobs-scraper input schema:
+        #   keywords (str), location (str), maxItems (int), datePosted (str)
         run_input = {
-            "title":    q["title"],
-            "location": q["location"],
-            "rows":     200,             # ~200 per query × 6 queries = ~1200 jobs
-            "publishedAt": "r604800",    # last 7 days
+            "keywords":   q["title"],
+            "location":   q["location"],
+            "maxItems":   200,
+            "datePosted": "week",   # past 7 days
         }
         try:
             run = await Actor.call(actor_id=LINKEDIN_JOBS_ACTOR_ID, run_input=run_input)
@@ -201,8 +208,13 @@ async def scrape_jobs() -> list[dict[str, Any]]:
                 Actor.log.warning("LinkedIn scraper returned None for query %s", q)
                 continue
             dataset_id = run["defaultDatasetId"]
-            items = await Actor.apify_client.dataset(dataset_id).list_items()
-            jobs = items.items if hasattr(items, "items") else items.get("items", [])
+            # apify-client 2.x: list_items returns a ListPage with .items
+            items_page = await Actor.apify_client.dataset(dataset_id).list_items()
+            jobs = getattr(items_page, "items", None)
+            if jobs is None and isinstance(items_page, dict):
+                jobs = items_page.get("items", [])
+            if jobs is None:
+                jobs = []
             Actor.log.info("  → %d jobs", len(jobs))
             for j in jobs:
                 j["_query"] = q["title"]

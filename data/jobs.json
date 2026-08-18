@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-17T06:26:02.625189+00:00",
-  "sponsors_used": 120736,
-  "jobs_scraped": 537,
-  "jobs_matched": 413,
-  "jobs_ranked": 207,
+  "generated_at": "2026-08-18T06:19:42.954547+00:00",
+  "sponsors_used": 120769,
+  "jobs_scraped": 533,
+  "jobs_matched": 397,
+  "jobs_ranked": 203,
   "jobs": [
     {
       "title": "Machine Learning Engineer",
@@ -107,7 +107,7 @@
       "contract_type": null,
       "posted_at": "2026-08-13T11:37:32Z",
       "url": "https://www.adzuna.co.uk/jobs/details/5840202719?utm_medium=api&utm_source=8d80829b",
-      "query_origin": "ai engineer",
+      "query_origin": "research engineer",
       "description_excerpt": "Salary: \u00a365,000 - 65,000 per year Requirements: Proven commercial experience in AI/ML research and development Strong Python development skills Experience in one or more of computer vision, NLP, LLMs or reinforcement learning A track record of developing novel AI/ML applications Experience adapting and applying academic research Strong software engineering fundamentals Experience working in Agile "
     },
     {
@@ -121,7 +121,7 @@
       "salary_max": 65000,
       "contract_type": "permanent",
       "posted_at": "2026-08-12T05:18:57Z",
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5837727286?se=Rnv-cQSa8RGpTryJ8e3q1A&utm_medium=api&utm_source=8d80829b&v=E4D7A114A5D6261BDC443BADCB897985B34C4A7E",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5837727286?se=AL34t8ya8RGfRuc056oPGQ&utm_medium=api&utm_source=8d80829b&v=E4D7A114A5D6261BDC443BADCB897985B34C4A7E",
       "query_origin": "machine learning engineer",
       "description_excerpt": "*This is a self-funded career programme with a guaranteed job on completion or 100% of your course fees back* Train. Certify. Get Hired. AI is expected to generate 170 million jobs by 2030 and at present experienced professionals can earn salaries of upwards of \u00a366,000. In todays digital world, AI is transforming every aspect of our lives and is at the heart of modern technological advancements. A"
     },
@@ -139,6 +139,21 @@
       "url": "https://www.adzuna.co.uk/jobs/details/5840202388?utm_medium=api&utm_source=8d80829b",
       "query_origin": "machine learning engineer",
       "description_excerpt": "Salary: \u00a365,000 - 65,000 per year Requirements: We are looking for individuals with little or no previous experience. We welcome applicants who are looking for a career change, are recent school, college or university leavers, are currently working in another industry, or are leaving the Armed Forces. We are looking for people who are interested in technology and problem-solving. We value a willin"
+    },
+    {
+      "title": "Associate Data Scientist",
+      "company_listed": "Ki",
+      "company_sponsor": "Ki Group Services Limited",
+      "match_score": 100,
+      "fit_score": 12,
+      "location": "London, UK",
+      "salary_min": 53494.23,
+      "salary_max": 53494.23,
+      "contract_type": null,
+      "posted_at": "2026-08-17T12:58:05Z",
+      "url": "https://www.adzuna.co.uk/jobs/details/5845132734?utm_medium=api&utm_source=8d80829b",
+      "query_origin": "data scientist",
+      "description_excerpt": "Who are we? Look at the latest headlines and you will see something Ki insures. Think space shuttles, world tours, wind farms, and even footballers\u2019 legs. Ki\u2019s mission is simple. Digitally disrupt and revolutionise a 335-year-old market. Working with Google and UCL, Ki has created a platform that uses algorithms, machine learning and large language models to give insurance brokers quotes in second"
     },
     {
       "title": "AI Solution Engineer",
@@ -316,7 +331,7 @@
       "salary_max": 66094.94,
       "contract_type": null,
       "posted_at": "2026-08-14T21:48:28Z",
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5842150197?se=Rnv-cQSa8RGpTryJ8e3q1A&utm_medium=api&utm_source=8d80829b&v=ECCF8DE65FEEA6CB5886AB1E4CD02C071D42A153",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5842150197?se=AL34t8ya8RGfRuc056oPGQ&utm_medium=api&utm_source=8d80829b&v=ECCF8DE65FEEA6CB5886AB1E4CD02C071D42A153",
       "query_origin": "machine learning engineer",
       "description_excerpt": "hackajob is collaborating with Baringa Partners to connect them with exceptional professionals for this role. What you will be doing Defining and implementing Machine Learning projects over the full lifecycle, from conception to data preparation, model engineering, evaluation and deployment and finally model monitoring and maintenance Establishing and developing ML Ops frameworks and standards for"
     },
@@ -336,21 +351,6 @@
       "description_excerpt": "Machine Learning Engineer \u00a375k-\u00a3100k DOE | UK Remote About the Role We are seeking an experienced Machine Learning Engineer to develop, train and optimise advanced computer vision and machine learning systems for deployment in constrained edge environments. This role is ideal for someone who combines strong machine learning expertise with excellent software engineering capability and enjoys solvin"
     },
     {
-      "title": "Machine Learning Engineer - Fully Remote",
-      "company_listed": "Mercor",
-      "company_sponsor": "Mercor Innovations UK Ltd",
-      "match_score": 100,
-      "fit_score": 9,
-      "location": "London, UK",
-      "salary_min": 49128.69,
-      "salary_max": 49128.69,
-      "contract_type": "contract",
-      "posted_at": "2026-08-10T02:56:52Z",
-      "url": "https://www.adzuna.co.uk/jobs/details/5835199600?utm_medium=api&utm_source=8d80829b",
-      "query_origin": "machine learning engineer",
-      "description_excerpt": "About the job Mercor connects elite creative and technical talent with leading AI research labs. Headquartered in San Francisco, our investors include Benchmark , General Catalyst , Peter Thiel , Adam D'Angelo , Larry Summers , and Jack Dorsey . Position: ML Engineer (Coding Agent Experience) Type: Contract Compensation: $85/hour Location: Remote Role Responsibilities Use frontier AI coding agents"
-    },
-    {
       "title": "Machine Learning & Artificial Intelligence Engineer",
       "company_listed": "GE Vernova",
       "company_sponsor": "GE Vernova International LLC",
@@ -361,7 +361,7 @@
       "salary_max": 60888.58,
       "contract_type": null,
       "posted_at": "2026-08-14T16:21:16Z",
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5841931915?se=Rnv-cQSa8RGpTryJ8e3q1A&utm_medium=api&utm_source=8d80829b&v=6A08134BB13CBB3EA2ECAB9BBEE538B58C748CC7",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5841931915?se=AL34t8ya8RGfRuc056oPGQ&utm_medium=api&utm_source=8d80829b&v=6A08134BB13CBB3EA2ECAB9BBEE538B58C748CC7",
       "query_origin": "machine learning engineer",
       "description_excerpt": "Job Description Summary Become part of a winning team and help to deliver the Green Energy transition. This position will be responsible for developing ML & AI methodologies. Main focus of the role: o APOW (Automated Process and Optimisation Workbench) - tool reconstruction, develop this tool and develop new ideas. o Programming o Machine Learning & AI o Mentoring and supervising a team of 4 GE Ve"
     },
@@ -381,21 +381,6 @@
       "description_excerpt": "Job Description Summary Become part of a winning team and help to deliver the Green Energy transition. This position will be responsible for developing ML & AI methodologies. Main focus of the role: oAPOW (Automated Process and Optimisation Workbench) - tool reconstruction, develop this tool and develop new ideas. oProgramming oMachine Learning & AI oMentoring and supervising a team of 4 GE Vernov"
     },
     {
-      "title": "Data Scientist",
-      "company_listed": "Ocho",
-      "company_sponsor": "Kocho Group Ltd",
-      "match_score": 88,
-      "fit_score": 9,
-      "location": "Belfast, Northern Ireland",
-      "salary_min": 70000,
-      "salary_max": 70000,
-      "contract_type": null,
-      "posted_at": "2026-08-12T15:08:33Z",
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5838334165?se=Rnv-cQSa8RGpTryJ8e3q1A&utm_medium=api&utm_source=8d80829b&v=4006F88EED62572D1E28C46FB9B236CA34436C32",
-      "query_origin": "machine learning engineer",
-      "description_excerpt": "Data Scientist Mid to senior Data Scientist role within a global business Full ML and AI lifecycle across traditional ML, LLMs, RAG and agentic AI workflows Belfast based, hybrid (2 days at home per week) Salary reflecting experience, competitive package UK work authorisation required About the Company Our client is a well-established US business with a growing Belfast technology team focused on d"
-    },
-    {
       "title": "ML Engineer - AI Coding Expert",
       "company_listed": "Mercor",
       "company_sponsor": "Mercor Innovations UK Ltd",
@@ -411,6 +396,21 @@
       "description_excerpt": "About the job Mercor connects elite creative and technical talent with leading AI research labs. Headquartered in San Francisco, our investors include Benchmark , General Catalyst , Peter Thiel , Adam D'Angelo , Larry Summers , and Jack Dorsey . Position: ML Engineer (Coding Agent Experience) Type: Contract Compensation: $85/hour Location: Remote Role Responsibilities Use frontier AI coding agents"
     },
     {
+      "title": "Data Scientist",
+      "company_listed": "Ocho",
+      "company_sponsor": "Kocho Group Ltd",
+      "match_score": 88,
+      "fit_score": 9,
+      "location": "Belfast, Northern Ireland",
+      "salary_min": 70000,
+      "salary_max": 70000,
+      "contract_type": null,
+      "posted_at": "2026-08-12T15:08:33Z",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5838334165?se=AL34t8ya8RGfRuc056oPGQ&utm_medium=api&utm_source=8d80829b&v=4006F88EED62572D1E28C46FB9B236CA34436C32",
+      "query_origin": "machine learning engineer",
+      "description_excerpt": "Data Scientist Mid to senior Data Scientist role within a global business Full ML and AI lifecycle across traditional ML, LLMs, RAG and agentic AI workflows Belfast based, hybrid (2 days at home per week) Salary reflecting experience, competitive package UK work authorisation required About the Company Our client is a well-established US business with a growing Belfast technology team focused on d"
+    },
+    {
       "title": "eDV Data Scientist",
       "company_listed": "NSD",
       "company_sponsor": "NSD HAULAGE LTD",
@@ -424,21 +424,6 @@
       "url": "https://www.adzuna.co.uk/jobs/details/5838730552?utm_medium=api&utm_source=8d80829b",
       "query_origin": "machine learning engineer",
       "description_excerpt": "Must have active enhanced DV Clearance Junior to Lead levels available \u00a345k to \u00a395k DoE plus 15% clearance bonus Must be willing to be full-time on-site in Central London Skills required in machine learning, GenAI, NLP, Customer Engagement/Consultancy Who are we? We are recruiting Junior, Senior and Lead Data Scientists with AI specialism and enhanced DV Clearance for a prestigious client to work "
-    },
-    {
-      "title": "AI Engineer",
-      "company_listed": "Bruin Financial & Professional Services",
-      "company_sponsor": "M & M Financial Services Ltd",
-      "match_score": 90,
-      "fit_score": 9,
-      "location": "London, UK",
-      "salary_min": 182000,
-      "salary_max": 208000,
-      "contract_type": "contract",
-      "posted_at": "2026-08-12T17:56:27Z",
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5838625984?se=WD17dgSa8RGkvsrO_ePWHQ&utm_medium=api&utm_source=8d80829b&v=714B2213A059C576403E3B6917963DE8EB848231",
-      "query_origin": "ai engineer",
-      "description_excerpt": "AI Engineer - Python / React / GenAI London - Paddington | 3-4 days onsite | Contract | Inside IR35 We're looking for AI Engineers to join a large financial services organisation in London, working on the development of new Generative AI applications. You'll be joining a team building and taking AI solutions into production, working predominantly with Python, React and AWS . The work will include "
     },
     {
       "title": "Graduate Software Engineer",
@@ -481,7 +466,7 @@
       "salary_max": 69315.07,
       "contract_type": null,
       "posted_at": "2026-08-12T16:18:48Z",
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5838455087?se=eDzTcgSa8RGJftUyzQ0_4w&utm_medium=api&utm_source=8d80829b&v=F411FE5C37997CCE61402EF02E16AA6D4A2774F2",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5838455087?se=UjrJuMya8RGVcZyokYtSjw&utm_medium=api&utm_source=8d80829b&v=F411FE5C37997CCE61402EF02E16AA6D4A2774F2",
       "query_origin": "machine learning engineer",
       "description_excerpt": "Description What We Do At Goldman Sachs, our Engineers don't just make things - we make things possible. Change the world by connecting people and capital with ideas. Solve the most challenging and pressing engineering problems for our clients. Join our engineering teams that build massively scalable software and systems, architect low latency infrastructure solutions, proactively guard against cy"
     },
@@ -526,7 +511,7 @@
       "salary_max": 49316.18,
       "contract_type": null,
       "posted_at": "2026-08-15T10:55:46Z",
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5842890751?se=Rnv-cQSa8RGpTryJ8e3q1A&utm_medium=api&utm_source=8d80829b&v=C41790E1BF160FD1B7A7F64B9E1A5795CD5C4B13",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5842890751?se=AL34t8ya8RGfRuc056oPGQ&utm_medium=api&utm_source=8d80829b&v=C41790E1BF160FD1B7A7F64B9E1A5795CD5C4B13",
       "query_origin": "machine learning engineer",
       "description_excerpt": "hackajob is collaborating with Barclays to connect them with exceptional professionals for this role. Join us at Barclays as an Integrated Financial Crime Machine Learning Engineer. You will design, build and deploy machine learning models that support scalable, high quality financial crime detection across the bank. You will work within the Integrated Financial Crime portfolio, a large scale prog"
     },
@@ -541,7 +526,7 @@
       "salary_max": 70000,
       "contract_type": "permanent",
       "posted_at": "2026-08-13T21:24:05Z",
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5840658518?se=Rnv-cQSa8RGpTryJ8e3q1A&utm_medium=api&utm_source=8d80829b&v=AC4E037AD2C50F6FEA783B33C4A34B38F50EE855",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5840658518?se=AL34t8ya8RGfRuc056oPGQ&utm_medium=api&utm_source=8d80829b&v=AC4E037AD2C50F6FEA783B33C4A34B38F50EE855",
       "query_origin": "machine learning engineer",
       "description_excerpt": "Embedded Machine Learning and Real-Time Sensor Classification Introduced by: KO2 Embedded Recruitment Solutions Client Location: Edinburgh Salary: \u00a360,000 to \u00a370,000 per annum The Opportunity Our client is building the next generation of real-time detection systems that operate at the edge of the network, where connectivity is unreliable and power is constrained. Their vision is straightforward an"
     },
@@ -556,7 +541,7 @@
       "salary_max": 55050.28,
       "contract_type": null,
       "posted_at": "2026-08-13T09:44:04Z",
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5840050365?se=Rnv-cQSa8RGpTryJ8e3q1A&utm_medium=api&utm_source=8d80829b&v=63D105A238554E2CEB7C47DABBAEF6909A79B072",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5840050365?se=AL34t8ya8RGfRuc056oPGQ&utm_medium=api&utm_source=8d80829b&v=63D105A238554E2CEB7C47DABBAEF6909A79B072",
       "query_origin": "machine learning engineer",
       "description_excerpt": "hackajob is collaborating with Barclays to connect them with exceptional professionals for this role. Join us as an AI Engineer for Barclays Private Bank and Wealth Management, where you will be part of a growing engineering function focused on delivering the bank\u2019s strategic AI agenda. You will contribute to the development of Agentic AI solutions that enhance front-office productivity, improve c"
     },
@@ -606,21 +591,6 @@
       "description_excerpt": "WHAT MAKES US EPIC? At the core of Epic\u2019s success are talented, passionate people. Epic prides itself on creating a collaborative, welcoming, and creative environment. Whether it\u2019s building award-winning games or crafting engine technology that enables others to make visually stunning interactive experiences, we\u2019re always innovating. Being Epic means being a part of a team that continually strives"
     },
     {
-      "title": "Machine Learning Engineer, Consumer Gen AI Product Engineering",
-      "company_listed": "Snap",
-      "company_sponsor": "Snap Group Limited",
-      "match_score": 100,
-      "fit_score": 7,
-      "location": "London, UK",
-      "salary_min": 45361.19,
-      "salary_max": 45361.19,
-      "contract_type": null,
-      "posted_at": "2026-08-10T16:16:47Z",
-      "url": "https://www.adzuna.co.uk/jobs/details/5835722172?utm_medium=api&utm_source=8d80829b",
-      "query_origin": "machine learning engineer",
-      "description_excerpt": "Snap Inc is a technology company. We believe the camera presents the greatest opportunity to improve the way people live and communicate. Snap contributes to human progress by empowering people to express themselves, live in the moment, learn about the world, and have fun together. The Company operates Snapchat , a visual messaging app that enhances your relationships with friends, family, and the"
-    },
-    {
       "title": "Machine Learning Platform Engineer",
       "company_listed": "Bjak",
       "company_sponsor": "ABJAK LTD",
@@ -646,7 +616,7 @@
       "salary_max": 47803.25,
       "contract_type": null,
       "posted_at": "2026-08-11T17:46:49Z",
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5837031172?se=eDzTcgSa8RGJftUyzQ0_4w&utm_medium=api&utm_source=8d80829b&v=DE7B142FCA16ED85D4FA2CE5EF423F46DEA276E6",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5837031172?se=UjrJuMya8RGVcZyokYtSjw&utm_medium=api&utm_source=8d80829b&v=DE7B142FCA16ED85D4FA2CE5EF423F46DEA276E6",
       "query_origin": "machine learning engineer",
       "description_excerpt": "The Data Scientist will help transform manufacturing and product data into meaningful insights that improve quality, performance and decision-making. Working closely with engineering, manufacturing and digital teams, you will apply analytics, statistical modelling and machine learning techniques to solve complex engineering challenges. The Data Scientist will: Analyse manufacturing, quality and pr"
     },
@@ -661,7 +631,7 @@
       "salary_max": 50000,
       "contract_type": "permanent",
       "posted_at": "2026-08-12T15:23:33Z",
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5838350916?se=-iU-dASa8RGOUIcJ4rUxCA&utm_medium=api&utm_source=8d80829b&v=CBD03EE81D0AC6476E5B820CACF1B452A33F0144",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5838350916?se=SGkvusya8RGfRuc056oPGQ&utm_medium=api&utm_source=8d80829b&v=CBD03EE81D0AC6476E5B820CACF1B452A33F0144",
       "query_origin": "data scientist",
       "description_excerpt": "Data Scientist - Merseyside As a Data Scientist, you will work closely with the Lead Data Science and cross-functional teams to develop and deploy models that support customer and commercial decision-making. Responsibilities include: Building and deploying machine learning models across customer use cases Delivering projects focused on customer segmentation, lifetime value, and forecasting Support"
     },
@@ -706,7 +676,7 @@
       "salary_max": 85000,
       "contract_type": "permanent",
       "posted_at": "2026-08-11T15:16:52Z",
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5836778938?se=WD17dgSa8RGkvsrO_ePWHQ&utm_medium=api&utm_source=8d80829b&v=49776D5561A2990D9A1C02FBC30C868514AE8107",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5836778938?se=RIypvMya8RGfRuc056oPGQ&utm_medium=api&utm_source=8d80829b&v=49776D5561A2990D9A1C02FBC30C868514AE8107",
       "query_origin": "ai engineer",
       "description_excerpt": "AI Engineer London (Hybrid, 3 days per week) This is an opportunity to join a newly formed AI function at a pivotal stage of growth. You'll work on high-impact AI initiatives across machine learning, Generative AI and Agentic AI, helping to shape how AI is adopted and scaled across a major organisation. The Company Our client is investing significantly in AI as part of a large-scale transformation"
     },
@@ -736,9 +706,24 @@
       "salary_max": 65000,
       "contract_type": null,
       "posted_at": "2026-08-12T15:44:57Z",
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5838399622?se=DLMTeASa8RGUiq14ohrRew&utm_medium=api&utm_source=8d80829b&v=58D6C9926282B82EEED01B8AF13C8B1183214A17",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5838399622?se=UDgivsya8RGqTI6dL6lHFw&utm_medium=api&utm_source=8d80829b&v=58D6C9926282B82EEED01B8AF13C8B1183214A17",
       "query_origin": "ai engineer",
       "description_excerpt": "Job title: AI/ML Engineer Location: Romsey, Hampshire/Hybrid (2 days per week on site) Salary: \u00a365,000 plus 6% bonus Candidates must be willing and eligible to go through SC security clearance. Build AI that solves problems others can't within Defence, National Security & Intelligence Are you an AI/ML Engineer, Research Engineer or Applied Scientist who wants to work on genuinely complex, technica"
+    },
+    {
+      "title": "CEREBRIS Research Associate (AI for Neurotechnology) (SS13839)",
+      "company_listed": "University Of Bath",
+      "company_sponsor": "University of Bath",
+      "match_score": 100,
+      "fit_score": 6,
+      "location": "Bath, Bath & N E Somerset",
+      "salary_min": 59450.54,
+      "salary_max": 59450.54,
+      "contract_type": "contract",
+      "posted_at": "2026-08-17T22:52:24Z",
+      "url": "https://www.adzuna.co.uk/jobs/details/5845449315?utm_medium=api&utm_source=8d80829b",
+      "query_origin": "machine learning engineer",
+      "description_excerpt": "About the role Join the CEREBRIS project, a flagship European Innovation Council (EIC) Pathfinder programme developing next-generation AI and neurotechnology to transform stroke diagnosis, prognosis and rehabilitation. Working within the Bath Institute for the Augmented Human , you will collaborate with leading researchers and an international consortium to deliver cutting-edge translational resea"
     },
     {
       "title": "Graduate Internal Auditor \u2013 Internal Audit Management - Cannock",
@@ -766,7 +751,7 @@
       "salary_max": 49306.68,
       "contract_type": null,
       "posted_at": "2026-08-16T12:56:12Z",
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5844197595?se=5m6McwSa8RGOUIcJ4rUxCA&utm_medium=api&utm_source=8d80829b&v=394253265836714FCF66328DEACF04C4B68B114D",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5844197595?se=2qx4ucya8RGqTI6dL6lHFw&utm_medium=api&utm_source=8d80829b&v=394253265836714FCF66328DEACF04C4B68B114D",
       "query_origin": "machine learning engineer",
       "description_excerpt": "Job Title Data and AI Graduate Job Description Start your career at Sage in a role focused on artificial intelligence, data engineering and responsible innovation. You will build practical experience in how trusted data powers AI, how scalable data platforms support better decisions, and how emerging technology can be applied safely and effectively across a global software business. Why join Sage "
     },
@@ -796,7 +781,7 @@
       "salary_max": 50094.32,
       "contract_type": null,
       "posted_at": "2026-08-12T14:05:06Z",
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5838278269?se=-HHKdQSa8RGXlua0wi23rg&utm_medium=api&utm_source=8d80829b&v=DD3739BDA2E6AF94DDE66DF5E01D05F0CFE916EB",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5838278269?se=rrwAvMya8RGB8rnM-OiTpQ&utm_medium=api&utm_source=8d80829b&v=DD3739BDA2E6AF94DDE66DF5E01D05F0CFE916EB",
       "query_origin": "data scientist",
       "description_excerpt": "Our client, a major UK retail bank, provides every day banking services to over 17 million retail customers. The banks expertise and services span across Business Services, Corporate banking, Wealth Management, Group Functions, Retail and Investment Banking. On behalf of this organisation, AMS are looking for a Data Analyst (Graduate Opportunity) for a contract until the end of 2026 with possibili"
     },
@@ -841,24 +826,24 @@
       "salary_max": 29026.78,
       "contract_type": "contract",
       "posted_at": "2026-08-16T05:27:34Z",
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5843949913?se=-HHKdQSa8RGXlua0wi23rg&utm_medium=api&utm_source=8d80829b&v=2175197236ABD87A615D4934806CEC7217DF905C",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5843949913?se=rrwAvMya8RGB8rnM-OiTpQ&utm_medium=api&utm_source=8d80829b&v=2175197236ABD87A615D4934806CEC7217DF905C",
       "query_origin": "data scientist",
       "description_excerpt": "Maths Graduate Teaching Assistant | West London | September Start | Full-Time Are you a Maths Graduate looking to gain valuable school-based experience before pursuing a career in teaching, educational psychology, data science, finance, or another education-focused profession? We are recruiting a motivated Maths Graduate to join a highly successful and OFSTED Outstanding secondary school in West L"
     },
     {
-      "title": "AI Platform Engineer",
-      "company_listed": "Hays Technology",
-      "company_sponsor": "Hays PLC",
+      "title": "Graduate Programme 2027: Software Engineer (Android)",
+      "company_listed": "Revolut",
+      "company_sponsor": "Revolut Ltd",
       "match_score": 100,
       "fit_score": 6,
-      "location": "Bradwell Common, Milton Keynes",
-      "salary_min": 54123.67,
-      "salary_max": 54123.67,
-      "contract_type": "contract",
-      "posted_at": "2026-08-13T11:37:23Z",
-      "url": "https://www.adzuna.co.uk/jobs/details/5840201503?utm_medium=api&utm_source=8d80829b",
-      "query_origin": "ai engineer",
-      "description_excerpt": "Salary: \u00a3? - ? per year Requirements: Strong experience with Microsoft Azure, Kubernetes, Terraform, and GitHub Actions Strong Python development experience Experience developing APIs, including REST APIs and GraphQL Experience working with Large Language Models, including GPT, Claude and/or Gemini Experience with AI agents, Retrieval-Augmented Generation (RAG), vector databases, and LLM orchestra"
+      "location": "UK",
+      "salary_min": 32903.39,
+      "salary_max": 32903.39,
+      "contract_type": null,
+      "posted_at": "2026-08-17T22:49:48Z",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5845442286?se=AOgRv8ya8RGyIdVC-Du-Yg&utm_medium=api&utm_source=8d80829b&v=9F68E8C28AA4402CA96743BC6E99C6829BD1BC1D",
+      "query_origin": "software engineer graduate",
+      "description_excerpt": "hackajob is collaborating with Revolut to connect them with exceptional professionals for this role. About Revolut People deserve more from their money. More visibility, more control, and more freedom. Since 2015, Revolut has been on a mission to deliver just that. Our powerhouse of products \u2014 including spending, saving, investing, exchanging, travelling, and more \u2014 help our 75 million customers g"
     },
     {
       "title": "Junior Software Engineer",
@@ -901,7 +886,7 @@
       "salary_max": 40000,
       "contract_type": null,
       "posted_at": "2026-08-12T15:08:35Z",
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5838334235?se=Xuy0eASa8RGUiq14ohrRew&utm_medium=api&utm_source=8d80829b&v=D19AC8E06946BC985422E4B828BF86EF187F6D90",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5838334235?se=3J-Hv8ya8RGfRuc056oPGQ&utm_medium=api&utm_source=8d80829b&v=D19AC8E06946BC985422E4B828BF86EF187F6D90",
       "query_origin": "junior software engineer",
       "description_excerpt": "Software Engineer (Junior & Mid-Level) Belfast - Hybrid Up to \u00a340,000  Strong Benefits Package The Opportunity MCS Group are delighted to be partnering with a leading digital product agency as they seek to appoint a number of Software Engineers to join their growing Belfast team. This is an exciting opportunity to join a highly successful business that specialises in product strategy, product desi"
     },
@@ -936,34 +921,19 @@
       "description_excerpt": "Citrus Recruit are excited to be working with a global enterprise to recruit for a Research & Technology Engineer. This is an exciting opportunity for a graduate-level candidate with some industry experience who is eager to build a career in research, development, testing, and technology innovation. As a Research & Technology Engineer, you will support the delivery of research, technology, and dev"
     },
     {
-      "title": "AI Engineer Placement Programme No Experience Needed",
-      "company_listed": "IT Online Learning",
-      "company_sponsor": "Learning Technologies Group PLC",
+      "title": "Graduate Building Services Engineer",
+      "company_listed": "Hopkins Coats Associates",
+      "company_sponsor": "Hopkins Coats Associates",
       "match_score": 100,
-      "fit_score": 5,
-      "location": "Liverpool, Merseyside",
-      "salary_min": 75000,
-      "salary_max": 75000,
-      "contract_type": "permanent",
-      "posted_at": "2026-08-10T05:17:08Z",
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5835259054?se=Rnv-cQSa8RGpTryJ8e3q1A&utm_medium=api&utm_source=8d80829b&v=0DB8E3FA7B5D0E3A6A1D191F316423B5B1154D1C",
-      "query_origin": "machine learning engineer",
-      "description_excerpt": "AI Engineer Placement Programme no experience needed From \u00a345,000 to \u00a375,000 per annum AI Trainee Engineer \u00a345,000\u00a375,000 Job Programme This is a self-funded programme that leads to employment, fees apply. Job Guarantee Complete the programme and get a job, or get your course fees back. Location: UK Wide (Remote Opportunities Available) Looking to start a career in AI Engineering? We are offering "
-    },
-    {
-      "title": "AI Engineer",
-      "company_listed": "Harnham - Data & Analytics Recruitment",
-      "company_sponsor": "Data Inc UK Ltd",
-      "match_score": 100,
-      "fit_score": 5,
-      "location": "London, UK",
-      "salary_min": 80000,
-      "salary_max": 85000,
-      "contract_type": "permanent",
-      "posted_at": "2026-08-11T03:11:35Z",
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5836272456?se=Rnv-cQSa8RGpTryJ8e3q1A&utm_medium=api&utm_source=8d80829b&v=114A47C4C21986E920C2D32BAC542A19F4817354",
-      "query_origin": "machine learning engineer",
-      "description_excerpt": "AI Engineer London (Hybrid - 3x a week) The Company They are a large, data-driven organisation investing heavily in artificial intelligence and advanced analytics. Their AI team is focused on building innovative solutions that improve business operations, enhance customer experiences, and drive measurable commercial value. With access to large and complex datasets, they offer an environment where "
+      "fit_score": 6,
+      "location": "Cross Heath, Newcastle",
+      "salary_min": 28425.61,
+      "salary_max": 28425.61,
+      "contract_type": null,
+      "posted_at": "2026-08-17T14:42:58Z",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5845191205?se=Lg4NwMya8RGyIdVC-Du-Yg&utm_medium=api&utm_source=8d80829b&v=EC67EB2E7C261B3FFAB5885670317AC1BCDD0BA3",
+      "query_origin": "research engineer",
+      "description_excerpt": "About Due to consistent business growth and upcoming projects, Hopkins Coats Associates now has a vacancy for Graduate Engineer. This role is a fantastic career opportunity for a self-motivated individual to join a supportive and growing business providing technical design services to the construction industry. Key Duties (Note all training will be given) * Carry out design work such as building h"
     },
     {
       "title": "ML Quant Researcher/Developer",
@@ -981,6 +951,21 @@
       "description_excerpt": "About the Opportunity A highly collaborative and entrepreneurial systematic macro trading team is seeking a Quantitative Developer with expertise in machine learning engineering to help build next-generation research and trading capabilities. The team operates within a leading global alternative investment platform known for its significant investment in technology, quantitative research, and data"
     },
     {
+      "title": "AI Engineer",
+      "company_listed": "Harnham - Data & Analytics Recruitment",
+      "company_sponsor": "Data Inc UK Ltd",
+      "match_score": 100,
+      "fit_score": 5,
+      "location": "London, UK",
+      "salary_min": 80000,
+      "salary_max": 85000,
+      "contract_type": "permanent",
+      "posted_at": "2026-08-11T03:11:35Z",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5836272456?se=AL34t8ya8RGfRuc056oPGQ&utm_medium=api&utm_source=8d80829b&v=114A47C4C21986E920C2D32BAC542A19F4817354",
+      "query_origin": "machine learning engineer",
+      "description_excerpt": "AI Engineer London (Hybrid - 3x a week) The Company They are a large, data-driven organisation investing heavily in artificial intelligence and advanced analytics. Their AI team is focused on building innovative solutions that improve business operations, enhance customer experiences, and drive measurable commercial value. With access to large and complex datasets, they offer an environment where "
+    },
+    {
       "title": "AI Engineers (Copilot studio/ Power Platform)",
       "company_listed": "MCS Group",
       "company_sponsor": "MCS Corporate Strategies Ltd",
@@ -991,7 +976,7 @@
       "salary_max": 70000,
       "contract_type": null,
       "posted_at": "2026-08-14T14:44:14Z",
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5841841705?se=Rnv-cQSa8RGpTryJ8e3q1A&utm_medium=api&utm_source=8d80829b&v=BD62C2F5CD8264D29EF131BB3A6DBC3DDD75FA83",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5841841705?se=AL34t8ya8RGfRuc056oPGQ&utm_medium=api&utm_source=8d80829b&v=BD62C2F5CD8264D29EF131BB3A6DBC3DDD75FA83",
       "query_origin": "machine learning engineer",
       "description_excerpt": "AI Software Engineer - Belfast Location: Belfast / Hybrid Salary: DOE Level: Multiple levels from mid - senior We're working with a leading global organisation that is expanding its AI team in Belfast and looking for an AI Software Engineer to join the team. This is a hands-on role for someone who enjoys building AI solutions, particularly across the Microsoft AI and Power Platform ecosystem. The "
     },
@@ -1021,7 +1006,7 @@
       "salary_max": 47150.41,
       "contract_type": "contract",
       "posted_at": "2026-08-14T21:48:28Z",
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5842150194?se=eDzTcgSa8RGJftUyzQ0_4w&utm_medium=api&utm_source=8d80829b&v=DA09146EB51962F922D7B21CA6BF71CF6E3A12E9",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5842150194?se=UjrJuMya8RGVcZyokYtSjw&utm_medium=api&utm_source=8d80829b&v=DA09146EB51962F922D7B21CA6BF71CF6E3A12E9",
       "query_origin": "machine learning engineer",
       "description_excerpt": "hackajob is collaborating with Kainos to connect them with exceptional professionals for this role. Join Kainos and Shape the Future At Kainos, we\u2019re problem solvers, innovators, and collaborators - driven by a shared mission to create real impact. Whether we\u2019re transforming digital services for millions, delivering cutting-edge Workday solutions, or pushing the boundaries of technology, we do it "
     },
@@ -1036,7 +1021,7 @@
       "salary_max": 100000,
       "contract_type": "permanent",
       "posted_at": "2026-08-13T09:28:43Z",
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5840030663?se=eDzTcgSa8RGJftUyzQ0_4w&utm_medium=api&utm_source=8d80829b&v=71B570EA324F1898D7FA389B29B2BF27E69967E7",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5840030663?se=UjrJuMya8RGVcZyokYtSjw&utm_medium=api&utm_source=8d80829b&v=71B570EA324F1898D7FA389B29B2BF27E69967E7",
       "query_origin": "machine learning engineer",
       "description_excerpt": "hackajob is partnering directly with JPMorganChase to hire for this role. JOB DESCRIPTION Are you passionate about building resilient, scalable systems that power the future of AI? At JPMorganChase, we're pushing the boundaries of what's possible with artificial intelligence and machine learning - and we need engineers like you to help us do it reliably, securely, and at scale. As a Software Engin"
     },
@@ -1051,7 +1036,7 @@
       "salary_max": 55362.28,
       "contract_type": null,
       "posted_at": "2026-08-16T22:42:14Z",
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5844482232?se=eDzTcgSa8RGJftUyzQ0_4w&utm_medium=api&utm_source=8d80829b&v=03009B8B02CE62CE29C168C9C9E6031B9C3DF1E4",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5844482232?se=UjrJuMya8RGVcZyokYtSjw&utm_medium=api&utm_source=8d80829b&v=03009B8B02CE62CE29C168C9C9E6031B9C3DF1E4",
       "query_origin": "machine learning engineer",
       "description_excerpt": "hackajob is collaborating with J.P. Morgan to connect them with exceptional professionals for this role. JOB DESCRIPTION Are you passionate about building resilient, scalable systems that power the future of AI? At JPMorganChase, we're pushing the boundaries of what's possible with artificial intelligence and machine learning - and we need engineers like you to help us do it reliably, securely, an"
     },
@@ -1066,24 +1051,9 @@
       "salary_max": 44904.69,
       "contract_type": "contract",
       "posted_at": "2026-08-14T21:48:28Z",
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5842150195?se=-iU-dASa8RGOUIcJ4rUxCA&utm_medium=api&utm_source=8d80829b&v=0D19BA7D9ED7A07A6879D1CD7CD77FF0AFAAA921",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5842150195?se=SGkvusya8RGfRuc056oPGQ&utm_medium=api&utm_source=8d80829b&v=0D19BA7D9ED7A07A6879D1CD7CD77FF0AFAAA921",
       "query_origin": "data scientist",
       "description_excerpt": "hackajob is collaborating with Kainos to connect them with exceptional professionals for this role. Join Kainos and Shape the Future At Kainos, we\u2019re problem solvers, innovators, and collaborators - driven by a shared mission to create real impact. Whether we\u2019re transforming digital services for millions, delivering cutting-edge Workday solutions, or pushing the boundaries of technology, we do it "
-    },
-    {
-      "title": "Data Scientist",
-      "company_listed": "Harnham - Data & Analytics Recruitment",
-      "company_sponsor": "Data Inc UK Ltd",
-      "match_score": 100,
-      "fit_score": 5,
-      "location": "London, UK",
-      "salary_min": 50000,
-      "salary_max": 60000,
-      "contract_type": "permanent",
-      "posted_at": "2026-08-12T23:25:51Z",
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5838977910?se=-iU-dASa8RGOUIcJ4rUxCA&utm_medium=api&utm_source=8d80829b&v=3E25EF01D783E0C58BA0941FBEB318FB22C8418B",
-      "query_origin": "data scientist",
-      "description_excerpt": "DATA SCIENTIST SALARY BETWEEN \u00a350,000-\u00a360,000 LONDON HYBRID WORKING (ONCE A WEEK IN-OFFICE) Harnham are working with an early-stage FinTech lender that is looking to hire a Data Scientist to join its growing credit function. This is an excellent opportunity for someone with strong quantitative skills to have a direct impact on lending decisions and help shape a business from an early stage. THE CO"
     },
     {
       "title": "Data Scientist",
@@ -1099,6 +1069,36 @@
       "url": "https://www.adzuna.co.uk/jobs/details/5840318106?utm_medium=api&utm_source=8d80829b",
       "query_origin": "data scientist",
       "description_excerpt": "Salary: between \u00a355,000 to \u00a361,000 per annum, dependent on experience. Hours: 37.5 hours per week, Monday to Friday. Reports to: Head of Data Services Location: Harlow, Essex. Easily commutable from London Liverpool Street or Tottenham Hale Station. We offer a free minibus service to/from Harlow Town Train Station as well as free parking and EV charging on site. Extra Information: Based 3 days a w"
+    },
+    {
+      "title": "Data Scientist",
+      "company_listed": "Harnham - Data & Analytics Recruitment",
+      "company_sponsor": "Data Inc UK Ltd",
+      "match_score": 100,
+      "fit_score": 5,
+      "location": "London, UK",
+      "salary_min": 50000,
+      "salary_max": 60000,
+      "contract_type": "permanent",
+      "posted_at": "2026-08-12T23:25:51Z",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5838977910?se=SGkvusya8RGfRuc056oPGQ&utm_medium=api&utm_source=8d80829b&v=3E25EF01D783E0C58BA0941FBEB318FB22C8418B",
+      "query_origin": "data scientist",
+      "description_excerpt": "DATA SCIENTIST SALARY BETWEEN \u00a350,000-\u00a360,000 LONDON HYBRID WORKING (ONCE A WEEK IN-OFFICE) Harnham are working with an early-stage FinTech lender that is looking to hire a Data Scientist to join its growing credit function. This is an excellent opportunity for someone with strong quantitative skills to have a direct impact on lending decisions and help shape a business from an early stage. THE CO"
+    },
+    {
+      "title": "Data Scientist",
+      "company_listed": "Sagacity",
+      "company_sponsor": "Sagacity Solutions Ltd",
+      "match_score": 100,
+      "fit_score": 5,
+      "location": "London, UK",
+      "salary_min": 48707.05,
+      "salary_max": 48707.05,
+      "contract_type": "permanent",
+      "posted_at": "2026-08-17T18:46:32Z",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5845370201?se=SGkvusya8RGfRuc056oPGQ&utm_medium=api&utm_source=8d80829b&v=50092F129E1CD0418909DA7043D0A16A374D6E3F",
+      "query_origin": "data scientist",
+      "description_excerpt": "As a Data Scientist within the Analytics Team, you will contribute to data-driven strategies for our clients. Working closely with the Data & Analytics Manager and senior colleagues, you will deliver data science projects and collaborate with stakeholders across data strategy, sales, account management, delivery and marketing. You will bring solid technical skills and commercial awareness to deliv"
     },
     {
       "title": "Data Scientist",
@@ -1191,19 +1191,19 @@
       "description_excerpt": "About the job Mercor connects elite creative and technical talent with leading AI research labs. Headquartered in San Francisco, our investors include Benchmark , General Catalyst , Peter Thiel , Adam D'Angelo , Larry Summers , and Jack Dorsey . Position: Data Scientist Talent Network Type: Contract Compensation: $100\u2013$150/hour Location: Remote Role Responsibilities Design precise, task-specific g"
     },
     {
-      "title": "Data Scientist - Inside IR35",
-      "company_listed": "Salt",
-      "company_sponsor": "SALT Group Limited",
+      "title": "Python Developer",
+      "company_listed": "NEEV LIMITED",
+      "company_sponsor": "NEEV LIMITED",
       "match_score": 100,
       "fit_score": 5,
-      "location": "London, UK",
-      "salary_min": 100787.45,
-      "salary_max": 100787.45,
+      "location": "South East London, London",
+      "salary_min": 61958.24,
+      "salary_max": 61958.24,
       "contract_type": "contract",
-      "posted_at": "2026-08-11T05:16:46Z",
-      "url": "https://www.adzuna.co.uk/jobs/details/5836361630?utm_medium=api&utm_source=8d80829b",
+      "posted_at": "2026-08-18T01:44:41Z",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5845779366?se=rrwAvMya8RGB8rnM-OiTpQ&utm_medium=api&utm_source=8d80829b&v=34A012A64F3FC8BB2500C7F7E36691EF84BAEB53",
       "query_origin": "data scientist",
-      "description_excerpt": "Senior Data Scientist - Contract Rate: \u00a3485 per day IR35: Inside IR35 Duration: 6 Months Location: London We are looking for an experienced, hands-on Senior Data Scientist to join a high-profile technology organisation on an initial 6-month contract. This is a high-autonomy role focused on running existing business-as-usual analytics and data science across international markets, with responsibili"
+      "description_excerpt": "NOTE : VISA SPONSORSHIP IS NOT PROVIDED Role : Python Developer Location: London, UK (5 Days / Week Onsite) Type: Contract Inside IR35 Exp: 5 to 10 Years A Python  React  SQL  Databricks developer role blends backend data engineering with frontend application development, requiring strong coding skills in Python, React.js, SQL, and Databricks for building scalable, data-driven Note: Investment ban"
     },
     {
       "title": "AI Engineer",
@@ -1216,7 +1216,7 @@
       "salary_max": 169000,
       "contract_type": "contract",
       "posted_at": "2026-08-12T13:56:39Z",
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5838270374?se=WD17dgSa8RGkvsrO_ePWHQ&utm_medium=api&utm_source=8d80829b&v=E86201DB6E88DAE080B11F2727003E389E5C9018",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5838270374?se=RIypvMya8RGfRuc056oPGQ&utm_medium=api&utm_source=8d80829b&v=E86201DB6E88DAE080B11F2727003E389E5C9018",
       "query_origin": "ai engineer",
       "description_excerpt": "AI Engineer We are seeking an AI Engineer to join our team on a contingent basis for a specific project. This role involves technical leadership and hands-on AI engineering, embedded directly with audit business domain experts to deliver innovative audit solutions. The AI Engineer will develop, configure, and operate certified AI platform building blocks within live engagement environments, applyi"
     },
@@ -1231,24 +1231,39 @@
       "salary_max": 60000,
       "contract_type": "permanent",
       "posted_at": "2026-08-14T18:32:50Z",
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5842064325?se=WD17dgSa8RGkvsrO_ePWHQ&utm_medium=api&utm_source=8d80829b&v=969B7E20A8A9DFC04783A1E4B47E65B9DF2EF580",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5842064325?se=RIypvMya8RGfRuc056oPGQ&utm_medium=api&utm_source=8d80829b&v=969B7E20A8A9DFC04783A1E4B47E65B9DF2EF580",
       "query_origin": "ai engineer",
       "description_excerpt": "AI Engineer (.Net/AI) Location: Chester | Hybrid Working Permanent \u2013 Full-time Salary: \u00a350,000\u2013\u00a360,000 We're working with a leading UK organisation that is continuing to invest in its internal AI capability and is looking for an AI Software Engineer to join its dedicated AI squad. This role sits at the intersection of software engineering and applied AI. Rather than relying heavily on off-the-shel"
     },
     {
-      "title": "Contract Microsoft Foundry AI Engineer",
-      "company_listed": "AND Digital",
-      "company_sponsor": "Agile and IT Digital Services Limited",
+      "title": "AI Engineer - London",
+      "company_listed": "Adecco",
+      "company_sponsor": "Adecco UK Limited",
       "match_score": 100,
       "fit_score": 5,
-      "location": "Leeds, West Yorkshire",
-      "salary_min": 49837.67,
-      "salary_max": 49837.67,
-      "contract_type": null,
-      "posted_at": "2026-08-16T10:54:39Z",
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5844081796?se=WD17dgSa8RGkvsrO_ePWHQ&utm_medium=api&utm_source=8d80829b&v=C26AE54B13AADA6DBC799DEC6FD25181D7012A49",
+      "location": "London, UK",
+      "salary_min": 47000,
+      "salary_max": 51000,
+      "contract_type": "permanent",
+      "posted_at": "2026-08-14T10:27:59Z",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5841547732?se=RIypvMya8RGfRuc056oPGQ&utm_medium=api&utm_source=8d80829b&v=0AFEEF99731DA1161FCA8443B322529DEAD1ADF1",
       "query_origin": "ai engineer",
-      "description_excerpt": "hackajob is collaborating with AND Digital to connect them with exceptional professionals for this role. We are recruiting for a Contract Microsoft Foundry AI Engineer for a contract to start ASAP. Who We Are: AND Digital are a tech company focused on accelerating digital delivery and dedicated to closing the digital skills gap. We\u2019ve been helping organisations build better digital products and st"
+      "description_excerpt": "AI Engineer - London - hybrid working Up to \u00a351,000  perm benefits We are seeking an AI Engineer to join an ambitious digital transformation programme focused on driving the adoption of Artificial Intelligence across a large and complex higher education environment. This is a fantastic opportunity for someone who is passionate about AI, automation and emerging technologies. You'll play a key role "
+    },
+    {
+      "title": "AI Engineer / AI Solutions Specialist",
+      "company_listed": "Hays Specialist Recruitment Limited",
+      "company_sponsor": "Hays PLC",
+      "match_score": 100,
+      "fit_score": 5,
+      "location": "Sheffield, South Yorkshire",
+      "salary_min": 57626,
+      "salary_max": 57626,
+      "contract_type": "permanent",
+      "posted_at": "2026-08-12T13:57:00Z",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5838270711?se=RIypvMya8RGfRuc056oPGQ&utm_medium=api&utm_source=8d80829b&v=53A04615FD00D5F41206AFE57B2F1F5FA706CCAE",
+      "query_origin": "ai engineer",
+      "description_excerpt": "AI Engineer / AI Solutions SpecialistLocation: SheffieldHybridType: Permanent Shape the Future of AI in a Growing BusinessAn exciting opportunity has arisen for an AI Engineer / AI Solutions Specialist to join a well-established business embarking on its AI journey.This is a unique chance to become the organisation's first dedicated AI hire, taking ownership of how AI is implemented, governed and "
     },
     {
       "title": "AI Engineer",
@@ -1276,7 +1291,7 @@
       "salary_max": 169000,
       "contract_type": "contract",
       "posted_at": "2026-08-12T13:47:14Z",
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5838262866?se=WD17dgSa8RGkvsrO_ePWHQ&utm_medium=api&utm_source=8d80829b&v=3CC591D53EE49CA222E9C03039987392269DDB80",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5838262866?se=RIypvMya8RGfRuc056oPGQ&utm_medium=api&utm_source=8d80829b&v=3CC591D53EE49CA222E9C03039987392269DDB80",
       "query_origin": "ai engineer",
       "description_excerpt": "We are looking for an experienced AI Engineer / Generative AI Engineer to join a major enterprise AI programme in London with a international Bank. This is an excellent opportunity for an AI Engineer with strong hands-on experience across Generative AI, Large Language Models (LLMs), RAG, GitHub Copilot and Agentic AI. You will be building real-world AI applications, intelligent assistants, copilot"
     },
@@ -1291,7 +1306,7 @@
       "salary_max": 104000,
       "contract_type": null,
       "posted_at": "2026-08-14T15:56:07Z",
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5841905485?se=WD17dgSa8RGkvsrO_ePWHQ&utm_medium=api&utm_source=8d80829b&v=95AC904B45E99AF971D6E072DAC0A82F3098A027",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5841905485?se=RIypvMya8RGfRuc056oPGQ&utm_medium=api&utm_source=8d80829b&v=95AC904B45E99AF971D6E072DAC0A82F3098A027",
       "query_origin": "ai engineer",
       "description_excerpt": "The AI Engineers will be responsible for building, configuring, integrating, and supporting enterprise AI agents and copilots usingMicrosoft's AI ecosystem. Key Responsibilities Develop and deploy AI agents using Microsoft Copilot Studio. Build and maintain enterprise-grade Agentic AI solutions. Configure AI orchestration and multi-agent workflows. Integrate AI solutions with Workday and enterpris"
     },
@@ -1426,7 +1441,7 @@
       "salary_max": 51000,
       "contract_type": "permanent",
       "posted_at": "2026-08-14T12:01:39Z",
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5841753774?se=WD17dgSa8RGkvsrO_ePWHQ&utm_medium=api&utm_source=8d80829b&v=620367E72D8EA6038F9811C6654E46ACAAB611FB",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5841753774?se=ekZevcya8RGVcZyokYtSjw&utm_medium=api&utm_source=8d80829b&v=620367E72D8EA6038F9811C6654E46ACAAB611FB",
       "query_origin": "ai engineer",
       "description_excerpt": "AI Engineer - London - hybrid working Up to \u00a351,000  perm benefits We are seeking an AI Engineer to join an ambitious digital transformation programme focused on driving the adoption of Artificial Intelligence across a large and complex higher education environment. This is a fantastic opportunity for someone who is passionate about AI, automation and emerging technologies. You'll play a key role "
     },
@@ -1444,36 +1459,6 @@
       "url": "https://www.adzuna.co.uk/jobs/details/5844332921?utm_medium=api&utm_source=8d80829b",
       "query_origin": "ai engineer",
       "description_excerpt": "AI Engineer Intern \u2013 Innovation Team Location: dmg::media HQ - High Street Kensington, London, W8 Position: Internship (8-weeks) About dmg::media At dmg::media, we are committed to uncovering the stories that matter most. Our iconic brands\u2014including Daily Mail, Metro, The i Paper, and New Scientist\u2014reach over 9 million people in the UK daily and 160 million unique browsers globally every month. We"
-    },
-    {
-      "title": "Security AI Engineer",
-      "company_listed": "Fruition Group",
-      "company_sponsor": "Fruition Properties Limited",
-      "match_score": 100,
-      "fit_score": 5,
-      "location": "UK",
-      "salary_min": 81008.16,
-      "salary_max": 81008.16,
-      "contract_type": "contract",
-      "posted_at": "2026-08-10T21:19:43Z",
-      "url": "https://www.adzuna.co.uk/jobs/details/5835929369?utm_medium=api&utm_source=8d80829b",
-      "query_origin": "ai engineer",
-      "description_excerpt": "Job Title: Security AI Engineer Duration: 6 months with chance of extension Contract: Outside IR35 Location: Fully remote We're looking for a Security AI Engineer to join an exciting programme focused on building autonomous security agents and next generation AI-driven security capabilities. Working at the intersection of AI and cyber security, you'll help design and develop agentic systems capabl"
-    },
-    {
-      "title": "AI Engineer - London",
-      "company_listed": "Adecco",
-      "company_sponsor": "Adecco UK Limited",
-      "match_score": 100,
-      "fit_score": 5,
-      "location": "London, UK",
-      "salary_min": 47000,
-      "salary_max": 51000,
-      "contract_type": "permanent",
-      "posted_at": "2026-08-14T10:27:59Z",
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5841547732?se=WD17dgSa8RGkvsrO_ePWHQ&utm_medium=api&utm_source=8d80829b&v=0AFEEF99731DA1161FCA8443B322529DEAD1ADF1",
-      "query_origin": "ai engineer",
-      "description_excerpt": "AI Engineer - London - hybrid working Up to \u00a351,000  perm benefits We are seeking an AI Engineer to join an ambitious digital transformation programme focused on driving the adoption of Artificial Intelligence across a large and complex higher education environment. This is a fantastic opportunity for someone who is passionate about AI, automation and emerging technologies. You'll play a key role "
     },
     {
       "title": "Applied AI Engineer",
@@ -1521,19 +1506,19 @@
       "description_excerpt": "ABOUT THE JOB We\u2019re removing one of the last great barriers to progress in the physical world. While software moves fast, industries like aerospace, healthcare, and energy are still slowed by outdated, manual systems. We are on track to raise our Series A, backed by a 14\u00d7 oversubscribed $4.5m seed round from Tier-1 VCs such as Coinbase, Reddit, Klarna, and Spotify. Our world-class team includes fo"
     },
     {
-      "title": "AI Engineer / AI Solutions Specialist",
-      "company_listed": "Hays Specialist Recruitment Limited",
-      "company_sponsor": "Hays PLC",
+      "title": "Applied AI Engineer",
+      "company_listed": "Revolut",
+      "company_sponsor": "Revolut Ltd",
       "match_score": 100,
       "fit_score": 5,
-      "location": "Sheffield, South Yorkshire",
-      "salary_min": 57626,
-      "salary_max": 57626,
-      "contract_type": "permanent",
-      "posted_at": "2026-08-12T13:57:00Z",
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5838270711?se=4NZTdwSa8RGkvsrO_ePWHQ&utm_medium=api&utm_source=8d80829b&v=53A04615FD00D5F41206AFE57B2F1F5FA706CCAE",
+      "location": "UK",
+      "salary_min": 48235,
+      "salary_max": 48235,
+      "contract_type": null,
+      "posted_at": "2026-08-17T22:49:48Z",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5845442247?se=ekZevcya8RGVcZyokYtSjw&utm_medium=api&utm_source=8d80829b&v=AF700AECA4BA7877925EACF61ED34C4B16D9E887",
       "query_origin": "ai engineer",
-      "description_excerpt": "AI Engineer / AI Solutions SpecialistLocation: SheffieldHybridType: Permanent Shape the Future of AI in a Growing BusinessAn exciting opportunity has arisen for an AI Engineer / AI Solutions Specialist to join a well-established business embarking on its AI journey.This is a unique chance to become the organisation's first dedicated AI hire, taking ownership of how AI is implemented, governed and "
+      "description_excerpt": "hackajob is collaborating with Revolut to connect them with exceptional professionals for this role. About Revolut People deserve more from their money. More visibility, more control, and more freedom. Since 2015, Revolut has been on a mission to deliver just that. Our powerhouse of products \u2014 including spending, saving, investing, exchanging, travelling, and more \u2014 help our 70 million customers g"
     },
     {
       "title": "AI Engineer / AI Solutions Specialist",
@@ -1551,6 +1536,21 @@
       "description_excerpt": "AI Engineer / AI Solutions Specialist Location: Sheffield HybridType: Permanent Shape the Future of AI in a Growing Business An exciting opportunity has arisen for an AI Engineer / AI Solutions Specialist to join a well-established business embarking on its AI journey.This is a unique chance to become the organisation's first dedicated AI hire, taking ownership of how AI is implemented, governed a"
     },
     {
+      "title": "Contract Microsoft Foundry AI Engineer",
+      "company_listed": "AND Digital",
+      "company_sponsor": "Agile and IT Digital Services Limited",
+      "match_score": 100,
+      "fit_score": 5,
+      "location": "Leeds, West Yorkshire",
+      "salary_min": 50697.19,
+      "salary_max": 50697.19,
+      "contract_type": "contract",
+      "posted_at": "2026-08-14T12:08:52Z",
+      "url": "https://www.adzuna.co.uk/jobs/details/5841762307?utm_medium=api&utm_source=8d80829b",
+      "query_origin": "ai engineer",
+      "description_excerpt": "We are recruiting for a Contract Microsoft Foundry AI Engineer for a contract to start ASAP. Who We Are: AND Digital are a tech company focused on accelerating digital delivery and dedicated to closing the digital skills gap. We\u2019ve been helping organisations build better digital products and stronger digital teams since 2014. We believe our work should always make a remarkable impact for our clien"
+    },
+    {
       "title": "AI Engineer \u2014 Prototyping & Emerging Tech",
       "company_listed": "Flutter",
       "company_sponsor": "Flutter Labs AI Ltd",
@@ -1561,9 +1561,24 @@
       "salary_max": 55451.21,
       "contract_type": null,
       "posted_at": "2026-08-13T16:35:07Z",
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5840430149?se=4NZTdwSa8RGkvsrO_ePWHQ&utm_medium=api&utm_source=8d80829b&v=FFAA9F12A4EBA66E1F5E8568B724192BF12B7C7B",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5840430149?se=UDgivsya8RGqTI6dL6lHFw&utm_medium=api&utm_source=8d80829b&v=FFAA9F12A4EBA66E1F5E8568B724192BF12B7C7B",
       "query_origin": "ai engineer",
       "description_excerpt": "AI Engineer \u2014 Prototyping & Emerging Tech The Frontier R&D team sits within Flutter UKI's Disruptive R&D function, dedicated to exploring emerging technologies over a 12-36 month horizon. We prototype rapidly with cutting-edge tools, build relationships with technology providers, and create demonstrations that inform strategic decisions across the business. Our work transforms ambitious concepts i"
+    },
+    {
+      "title": "Contract Microsoft Foundry AI Engineer",
+      "company_listed": "AND Digital",
+      "company_sponsor": "Agile and IT Digital Services Limited",
+      "match_score": 100,
+      "fit_score": 5,
+      "location": "Leeds, West Yorkshire",
+      "salary_min": 49837.67,
+      "salary_max": 49837.67,
+      "contract_type": null,
+      "posted_at": "2026-08-16T10:54:39Z",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5844081796?se=UDgivsya8RGqTI6dL6lHFw&utm_medium=api&utm_source=8d80829b&v=C26AE54B13AADA6DBC799DEC6FD25181D7012A49",
+      "query_origin": "ai engineer",
+      "description_excerpt": "hackajob is collaborating with AND Digital to connect them with exceptional professionals for this role. We are recruiting for a Contract Microsoft Foundry AI Engineer for a contract to start ASAP. Who We Are: AND Digital are a tech company focused on accelerating digital delivery and dedicated to closing the digital skills gap. We\u2019ve been helping organisations build better digital products and st"
     },
     {
       "title": "Research Engineer \u2013 Geothermal Reservoir & Well Engineering",
@@ -1594,36 +1609,6 @@
       "url": "https://www.adzuna.co.uk/jobs/details/5840201455?utm_medium=api&utm_source=8d80829b",
       "query_origin": "ai engineer",
       "description_excerpt": "Salary: \u00a345,000 - 45,000 per year Requirements: We ideally want experience in one or more of the following, which may come through education or commercial experience: Building or implementing practical AI solutions. Generative AI and large language models. APIs, integrations, and automation. Python or another relevant programming language. AI platforms and tools such as OpenAI, Azure OpenAI, Micro"
-    },
-    {
-      "title": "AI Tools Engineer",
-      "company_listed": "Accordience",
-      "company_sponsor": "Accordience Group Limited ",
-      "match_score": 100,
-      "fit_score": 4,
-      "location": "Fleet Street, Central London",
-      "salary_min": 70000,
-      "salary_max": 70000,
-      "contract_type": "contract",
-      "posted_at": "2026-08-13T11:37:12Z",
-      "url": "https://www.adzuna.co.uk/jobs/details/5840199849?utm_medium=api&utm_source=8d80829b",
-      "query_origin": "ai engineer",
-      "description_excerpt": "Salary: \u00a370,000 - 70,000 per year Requirements: Youve shipped real things, you can show us what they do, and you can explain why you made the choices you made. Hands-on experience building agents, workflows, or automations \u2014 ideally inside a company rather than just side projects. Comfort with Python and scripting, and the ability to wire things together via REST APIs, webhooks, auth, and permissi"
-    },
-    {
-      "title": "AI Platform Engineer",
-      "company_listed": "The Portfolio Group",
-      "company_sponsor": "The Design Portfolio Marketing Services Limited",
-      "match_score": 100,
-      "fit_score": 4,
-      "location": "Manchester Science Park, Manchester",
-      "salary_min": 80000,
-      "salary_max": 100000,
-      "contract_type": null,
-      "posted_at": "2026-08-13T11:37:17Z",
-      "url": "https://www.adzuna.co.uk/jobs/details/5840200503?utm_medium=api&utm_source=8d80829b",
-      "query_origin": "ai engineer",
-      "description_excerpt": "Salary: \u00a380,000 - 100,000 per year Requirements: Experience designing and supporting cloud platforms on Microsoft Azure. Strong Terraform and Infrastructure-as-Code experience. Experience with containerised applications and CI/CD pipelines. Python for automation and scripting. Good understanding of cloud-native architecture, APIs and microservices. Experience with vector search technologies such a"
     },
     {
       "title": "Vehicle Systems Engineer - South West",
@@ -1666,7 +1651,7 @@
       "salary_max": 90000,
       "contract_type": "permanent",
       "posted_at": "2026-08-13T14:01:05Z",
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5840287792?se=eDzTcgSa8RGJftUyzQ0_4w&utm_medium=api&utm_source=8d80829b&v=66C8560641B6C4836555580E6FAB76BC491A7E35",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5840287792?se=AL34t8ya8RGfRuc056oPGQ&utm_medium=api&utm_source=8d80829b&v=66C8560641B6C4836555580E6FAB76BC491A7E35",
       "query_origin": "machine learning engineer",
       "description_excerpt": "FULL STACK SOFTWARE ENGINEER - AI/ML - SECURITY CLEARED NEW PERMANENT OPPORTUNITY AVAILABLE FOR A SC OR MOD DV CLEARED FULL STACK SOFTWARE ENGINEER WITH AN INTEREST IN AI/ML Salary: Up to \u00a390,000 Location: West London Clearance: Active SC or MOD DV Clearance required Employment: Permanent Sector: National Security & Defence To apply, email: Searchability NS&D are working with a growing technology "
     },
@@ -1680,8 +1665,8 @@
       "salary_min": 0,
       "salary_max": 208000,
       "contract_type": "contract",
-      "posted_at": "2026-08-14T21:26:07Z",
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5842144161?se=-HHKdQSa8RGXlua0wi23rg&utm_medium=api&utm_source=8d80829b&v=02ADE06C3BBA3C23D950235924E68FDD60A0ACE4",
+      "posted_at": "2026-08-13T09:29:47Z",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5840031863?se=rrwAvMya8RGB8rnM-OiTpQ&utm_medium=api&utm_source=8d80829b&v=FFBE337B9A8E4A3BB14B94FDD261ED89E0BDE84A",
       "query_origin": "data scientist",
       "description_excerpt": "Our client, a leading organisation in the defence and security sector, is currently seeking talented individuals with UKIC DV clearance for various IT roles on a contract basis. Positions are available for Infrastructure Architects, Network Engineers, Data Scientists, Technical Consultants, and DevOps Engineers. Key Responsibilities: Designing and implementing robust infrastructure solutions (Infr"
     },
@@ -1701,6 +1686,36 @@
       "description_excerpt": "Synthesia is the world\u2019s leading AI video platform for business, used by over 90% of the Fortune 100. Founded in 2017, the company is headquartered in London, with offices and teams across Europe and the US. As AI continues to shape the way we live and work, Synthesia develops products to enhance visual communication and enterprise skill development, helping people work better and stay at the cent"
     },
     {
+      "title": "Bio-ML Scientist (Metabolic Modelling) - Generative Biology Insititute",
+      "company_listed": "Ellison Institute of Technology",
+      "company_sponsor": "Ellison Institute of Technology, Oxford Limited",
+      "match_score": 100,
+      "fit_score": 3,
+      "location": "Oxford, Oxfordshire",
+      "salary_min": 63200.87,
+      "salary_max": 63200.87,
+      "contract_type": null,
+      "posted_at": "2026-08-17T08:57:26Z",
+      "url": "https://www.adzuna.co.uk/jobs/details/5844989655?utm_medium=api&utm_source=8d80829b",
+      "query_origin": "research engineer",
+      "description_excerpt": "At the Ellison Institute of Technology (EIT), we\u2019re on a mission to translate scientific discovery into real world impact. We bring together visionary scientists, technologists, engineers, researchers, educators and innovators to tackle humanity\u2019s greatest challenges in four transformative areas: Health, Medical Science & Generative Biology Food Security & Sustainable Agriculture Climate Change & "
+    },
+    {
+      "title": "Data Analyst",
+      "company_listed": "Rise Technical Recruitment Limited",
+      "company_sponsor": "AI Recruitment Technologies Limited",
+      "match_score": 88,
+      "fit_score": 2,
+      "location": "Plymouth, South West England",
+      "salary_min": 36000,
+      "salary_max": 36000,
+      "contract_type": "permanent",
+      "posted_at": "2026-08-13T19:57:40Z",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5840637955?se=rrwAvMya8RGB8rnM-OiTpQ&utm_medium=api&utm_source=8d80829b&v=F7DE1F1C65325395C3162596C33BB2194C12DD1D",
+      "query_origin": "data scientist",
+      "description_excerpt": "Data Analyst Plymouth \u00a336,070  37 days holiday  Local Government Pension  breakfast and lunch  many more benefits. Are you an experienced Data Analyst with strong SQL and data visualisation skills? Do you want to join a growing team where you can use your analytical expertise to improve business performance, develop modern reporting systems and have a real impact on how data is used across an orga"
+    },
+    {
       "title": "Software Engineer - AI Platform & Agents",
       "company_listed": "Moody's Corporation",
       "company_sponsor": "Moody's Analytics UK Ltd",
@@ -1711,7 +1726,7 @@
       "salary_max": 76097.52,
       "contract_type": null,
       "posted_at": "2026-08-16T10:54:40Z",
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5844081881?se=Rnv-cQSa8RGpTryJ8e3q1A&utm_medium=api&utm_source=8d80829b&v=BB133B6A52FA86BDFD3A7DBDAE88F9B42E5B5221",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5844081881?se=AL34t8ya8RGfRuc056oPGQ&utm_medium=api&utm_source=8d80829b&v=BB133B6A52FA86BDFD3A7DBDAE88F9B42E5B5221",
       "query_origin": "machine learning engineer",
       "description_excerpt": "hackajob is collaborating with Moody's Corporation to connect them with exceptional professionals for this role. Skills and Competencies - 3 years of experience in backend software development, building scalable, resilient, and production-grade systems - Hands-on experience developing AI-powered applications, including large language models (LLMs), AI agents, retrieval-augmented generation, prompt"
     },
@@ -1726,7 +1741,7 @@
       "salary_max": 86458.95,
       "contract_type": null,
       "posted_at": "2026-08-16T10:54:40Z",
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5844081874?se=Rnv-cQSa8RGpTryJ8e3q1A&utm_medium=api&utm_source=8d80829b&v=1551BA77BCCB923FB8F2961025F4BFBA7EE32E2D",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5844081874?se=AL34t8ya8RGfRuc056oPGQ&utm_medium=api&utm_source=8d80829b&v=1551BA77BCCB923FB8F2961025F4BFBA7EE32E2D",
       "query_origin": "machine learning engineer",
       "description_excerpt": "hackajob is collaborating with Moody's Corporation to connect them with exceptional professionals for this role. At Moody's, we unite the brightest minds to turn today\u2019s risks into tomorrow\u2019s opportunities. We do this by striving to create an inclusive environment where everyone feels welcome to be who they are\u2014with the freedom to exchange ideas, think innovatively, and listen to each other and cu"
     },
@@ -1816,7 +1831,7 @@
       "salary_max": 55188,
       "contract_type": "contract",
       "posted_at": "2026-08-14T16:07:44Z",
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5841916427?se=eDzTcgSa8RGJftUyzQ0_4w&utm_medium=api&utm_source=8d80829b&v=FFE415E21ED31E34440B62541645BD9B3B35B3A2",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5841916427?se=UjrJuMya8RGVcZyokYtSjw&utm_medium=api&utm_source=8d80829b&v=FFE415E21ED31E34440B62541645BD9B3B35B3A2",
       "query_origin": "machine learning engineer",
       "description_excerpt": "Regulatory Reporting Developer / Engineer \u2013 Contract Location: London \u2013 5 days per week onsite Contract: Initial 6 months Sector: Financial Markets / Trading We are looking for an experienced Regulatory Reporting Developer / Engineer to join a high-performing technology team within a leading global financial markets organisation. The role will focus on building and enhancing technology supporting "
     },
@@ -1861,7 +1876,7 @@
       "salary_max": 60882.02,
       "contract_type": null,
       "posted_at": "2026-08-12T16:13:19Z",
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5838437790?se=5m6McwSa8RGOUIcJ4rUxCA&utm_medium=api&utm_source=8d80829b&v=3821A52656C578D731BF0C2F525CBE0BD78AFB54",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5838437790?se=2qx4ucya8RGqTI6dL6lHFw&utm_medium=api&utm_source=8d80829b&v=3821A52656C578D731BF0C2F525CBE0BD78AFB54",
       "query_origin": "machine learning engineer",
       "description_excerpt": "Location: Reading, United Kingdom Thales is a global technology leader with more than 83,000 employees on five continents. With over 7,500 people in the UK, operating across defence, space, aerospace, and digital security, we help build a future we can all trust. Thales supports the security and stability of our nation by providing extraordinary technology to our customers, as well as delivering s"
     },
@@ -1876,7 +1891,7 @@
       "salary_max": 62446.81,
       "contract_type": null,
       "posted_at": "2026-08-12T12:57:36Z",
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5838225770?se=5m6McwSa8RGOUIcJ4rUxCA&utm_medium=api&utm_source=8d80829b&v=B00D535A6777CC596358DBDBDCA96C5398FB7FB8",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5838225770?se=2qx4ucya8RGqTI6dL6lHFw&utm_medium=api&utm_source=8d80829b&v=B00D535A6777CC596358DBDBDCA96C5398FB7FB8",
       "query_origin": "machine learning engineer",
       "description_excerpt": "Location: Reading, United Kingdom Thales is a global technology leader with more than 83,000 employees on five continents. With over 7,500 people in the UK, operating across defence, space, aerospace, and digital security, we help build a future we can all trust. Thales supports the security and stability of our nation by providing extraordinary technology to our customers, as well as delivering s"
     },
@@ -1906,7 +1921,7 @@
       "salary_max": 58257.81,
       "contract_type": null,
       "posted_at": "2026-08-11T16:29:30Z",
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5836847442?se=5m6McwSa8RGOUIcJ4rUxCA&utm_medium=api&utm_source=8d80829b&v=64BF8866AE8BC4066FC67E2F0EC80DB70868BC3E",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5836847442?se=2qx4ucya8RGqTI6dL6lHFw&utm_medium=api&utm_source=8d80829b&v=64BF8866AE8BC4066FC67E2F0EC80DB70868BC3E",
       "query_origin": "machine learning engineer",
       "description_excerpt": "At Insmed, every moment and every patient counts \u2014 and so does every person who joins in. As a global biopharmaceutical company dedicated to transforming the lives of patients with serious and rare diseases, you\u2019ll be part of a community that prioritizes the human experience, celebrates curiosity, and values every person\u2019s contributions to meaningful progress. That commitment has earned us recogni"
     },
@@ -1926,6 +1941,21 @@
       "description_excerpt": "About the AI Security Institute The AI Security Institute is the world's largest and best-funded team dedicated to understanding advanced AI risks and translating that knowledge into action. We\u2019re in the heart of the UK government with direct lines to No. 10 (the Prime Minister's office), and we work with frontier developers and governments globally. We\u2019re here because governments are critical for"
     },
     {
+      "title": "Data & AI Science Consultant",
+      "company_listed": "Accenture",
+      "company_sponsor": "Accenture (UK) Limited",
+      "match_score": 100,
+      "fit_score": 1,
+      "location": "London, UK",
+      "salary_min": 61828.98,
+      "salary_max": 61828.98,
+      "contract_type": null,
+      "posted_at": "2026-08-17T16:22:21Z",
+      "url": "https://www.adzuna.co.uk/jobs/details/5845244231?utm_medium=api&utm_source=8d80829b",
+      "query_origin": "machine learning engineer",
+      "description_excerpt": "Job Role : Data & AI Science Consultant Location: London/Manchester/Edinburgh/Newcastle Career Level : Consultant Accenture is a leading global professional services company, providing a broad range of services in strategy and consulting, interactive, technology and operations, with digital capabilities across all of these services. With our thought leadership and culture of innovation, we apply i"
+    },
+    {
       "title": "Sustainability AI Leader",
       "company_listed": "GE Vernova",
       "company_sponsor": "GE Vernova International LLC",
@@ -1936,7 +1966,7 @@
       "salary_max": 56842.14,
       "contract_type": "permanent",
       "posted_at": "2026-08-13T16:20:40Z",
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5840383658?se=5m6McwSa8RGOUIcJ4rUxCA&utm_medium=api&utm_source=8d80829b&v=D3E85315E9BCD6CB09B00EF4DB9DB9ECC76B23D7",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5840383658?se=2qx4ucya8RGqTI6dL6lHFw&utm_medium=api&utm_source=8d80829b&v=D3E85315E9BCD6CB09B00EF4DB9DB9ECC76B23D7",
       "query_origin": "machine learning engineer",
       "description_excerpt": "Job Description Summary The Sustainability AI Leader drives the end-to-end digitalization of all sustainability processes at Electrification, deploying artificial intelligence, advanced analytics, and digital solutions to transform sustainability reporting, planning, and decision-making across the organization. This role is responsible for coordinating with GEV HQ and Electrification DT teams to d"
     },
@@ -2001,21 +2031,6 @@
       "description_excerpt": "About the job Mercor connects elite creative and technical talent with leading AI research labs. Headquartered in San Francisco, our investors include Benchmark , General Catalyst , Peter Thiel , Adam D'Angelo , Larry Summers , and Jack Dorsey . Position: Data Science Expert Type: Contract Compensation: $120\u2013$170/hour Location: Remote Role Responsibilities Design precise, task-specific grading cri"
     },
     {
-      "title": "Data Science Expert - Fully Remote",
-      "company_listed": "Mercor",
-      "company_sponsor": "Mercor Innovations UK Ltd",
-      "match_score": 100,
-      "fit_score": 1,
-      "location": "London, UK",
-      "salary_min": 50545.99,
-      "salary_max": 50545.99,
-      "contract_type": "contract",
-      "posted_at": "2026-08-10T02:56:52Z",
-      "url": "https://www.adzuna.co.uk/jobs/details/5835199623?utm_medium=api&utm_source=8d80829b",
-      "query_origin": "data scientist",
-      "description_excerpt": "About the job Mercor connects elite creative and technical talent with leading AI research labs. Headquartered in San Francisco, our investors include Benchmark , General Catalyst , Peter Thiel , Adam D'Angelo , Larry Summers , and Jack Dorsey . Position: Data Scientist Talent Network Type: Contract Compensation: $100\u2013$150/hour Location: Remote Role Responsibilities Design precise, task-specific g"
-    },
-    {
       "title": "Consultant, Digital & Insights, Data Science",
       "company_listed": "FTI Consulting",
       "company_sponsor": "FTI Consulting LLP",
@@ -2055,8 +2070,8 @@
       "salary_min": 143000,
       "salary_max": 156000,
       "contract_type": "contract",
-      "posted_at": "2026-08-14T18:16:41Z",
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5842061988?se=-HHKdQSa8RGXlua0wi23rg&utm_medium=api&utm_source=8d80829b&v=5611065C965A3CEA9883E0578DC36F794B8FD02B",
+      "posted_at": "2026-08-13T21:23:29Z",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5840658300?se=rrwAvMya8RGB8rnM-OiTpQ&utm_medium=api&utm_source=8d80829b&v=C153D15AACBC5017E650C2C309495E38E05DA327",
       "query_origin": "data scientist",
       "description_excerpt": "Modelling Engineer \u2013 Defence Logistics Contract | \u00a3550\u2013\u00a3600 per day | Outside IR35 | Predominantly Remote * We are supporting a leading consultancy on a significant project within the defence logistics sector and are looking for experienced Digital Modellers to join the team. This is an opportunity to work on a sensitive, technically complex programme focused on data science, operational analysis "
     },
@@ -2071,24 +2086,24 @@
       "salary_max": 100000,
       "contract_type": "permanent",
       "posted_at": "2026-08-11T09:22:48Z",
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5836477002?se=-HHKdQSa8RGXlua0wi23rg&utm_medium=api&utm_source=8d80829b&v=7B41CA13AB1681DE653743FA741465ACC0A96739",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5836477002?se=rrwAvMya8RGB8rnM-OiTpQ&utm_medium=api&utm_source=8d80829b&v=7B41CA13AB1681DE653743FA741465ACC0A96739",
       "query_origin": "data scientist",
       "description_excerpt": "What stands out about this role: Collaborate with senior leadership across the organisation. Influence global pricing strategy for a fast-growing business line. Utilise actuarial experience and combine it with data science. The opportunity to shape key business decisions whilst being given latitude and visibility. Join a business investing heavily in their employees well-being, with excellent care"
     },
     {
-      "title": "Compliance Surveillance Analyst",
-      "company_listed": "TP ICAP Group Services Ltd",
-      "company_sponsor": "TP ICAP GROUP SERVICES LIMITED",
+      "title": "Front Office Software Engineer Internship (Summer 2027)",
+      "company_listed": "Castleton Commodities International",
+      "company_sponsor": "Castleton Commodities UK Limited",
       "match_score": 100,
       "fit_score": 1,
-      "location": "Belfast, Northern Ireland",
-      "salary_min": 68873.39,
-      "salary_max": 68873.39,
-      "contract_type": null,
-      "posted_at": "2026-08-16T14:52:47Z",
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5844245442?se=-HHKdQSa8RGXlua0wi23rg&utm_medium=api&utm_source=8d80829b&v=CC971D318EB0029B1CD400F345B96D0D24CB1678",
+      "location": "Monument, Central London",
+      "salary_min": 52441.15,
+      "salary_max": 52441.15,
+      "contract_type": "contract",
+      "posted_at": "2026-08-18T05:30:10Z",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5846053045?se=rrwAvMya8RGB8rnM-OiTpQ&utm_medium=api&utm_source=8d80829b&v=11A4E78128E19BE9B73E082DF6FB44D1D8CF4139",
       "query_origin": "data scientist",
-      "description_excerpt": "The TP ICAP Group is a world leading provider of market infrastructure. Our purpose is to provide clients with access to global financial and commodities markets, improving price discovery, liquidity, and distribution of data, through responsible and innovative solutions. Through our people and technology, we connect clients to superior liquidity and data solutions. The Group is home to a stable o"
+      "description_excerpt": "Application Deadline: September 1st, 11:59pm EST Company Overview: Castleton Commodities International is a leading global energy commodities merchant and infrastructure asset investor. As a trader, CCI deploys capital on a proprietary basis in the physical and financial commodity markets, providing the Company with market insights and access. As a strategic investor and developer, CCI leverages i"
     },
     {
       "title": "AI Solution Engineer",
@@ -2100,8 +2115,8 @@
       "salary_min": 90000,
       "salary_max": 90000,
       "contract_type": "permanent",
-      "posted_at": "2026-08-13T09:44:19Z",
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5840050643?se=WD17dgSa8RGkvsrO_ePWHQ&utm_medium=api&utm_source=8d80829b&v=6E53DC92F5F9184BF7246A9C2E87C520BF65AD01",
+      "posted_at": "2026-08-14T10:46:49Z",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5841550753?se=RIypvMya8RGfRuc056oPGQ&utm_medium=api&utm_source=8d80829b&v=B1477B20332CCC930D956A3C1670CD10DF124B0C",
       "query_origin": "ai engineer",
       "description_excerpt": "hackajob is partnering directly with Raytheon UK to hire for this role. Date Posted: 2026-08-11 Country: United Kingdom Location: Warminster, Wiltshire Position Role Type: Hybrid At RTX, the world's largest aerospace and defense company, 185,000 great minds are united by purpose and inspired to make a difference solving the world's most complex problems. With our three market leading businesses, w"
     },
@@ -2116,7 +2131,7 @@
       "salary_max": 72872.77,
       "contract_type": null,
       "posted_at": "2026-08-13T09:44:04Z",
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5840050372?se=WD17dgSa8RGkvsrO_ePWHQ&utm_medium=api&utm_source=8d80829b&v=880E0F909A89082FC35F824D67AC0276D581A36A",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5840050372?se=RIypvMya8RGfRuc056oPGQ&utm_medium=api&utm_source=8d80829b&v=880E0F909A89082FC35F824D67AC0276D581A36A",
       "query_origin": "ai engineer",
       "description_excerpt": "hackajob is collaborating with Raytheon to connect them with exceptional professionals for this role. Date Posted: 2026-08-11 Country: United Kingdom Location: Warminster, Wiltshire Position Role Type: Hybrid At RTX, the world's largest aerospace and defense company, 185,000 great minds are united by purpose and inspired to make a difference solving the world\u2019s most complex problems. With our thre"
     },
@@ -2131,7 +2146,7 @@
       "salary_max": 61363.97,
       "contract_type": null,
       "posted_at": "2026-08-15T10:55:47Z",
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5842890764?se=WD17dgSa8RGkvsrO_ePWHQ&utm_medium=api&utm_source=8d80829b&v=3BC7FFEA19DC1816F138C965DD2742DD8A79C92D",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5842890764?se=RIypvMya8RGfRuc056oPGQ&utm_medium=api&utm_source=8d80829b&v=3BC7FFEA19DC1816F138C965DD2742DD8A79C92D",
       "query_origin": "ai engineer",
       "description_excerpt": "hackajob is collaborating with Third Bridge Group to connect them with exceptional professionals for this role. Third Bridge is a leading global research firm established in 2007, with a team of over 1,500 employees worldwide dedicated to fueling decisions with expert insights . We accelerate and enhance decision-making for investors and business leaders by unearthing unique expert insights across"
     },
@@ -2161,7 +2176,7 @@
       "salary_max": 100000,
       "contract_type": "permanent",
       "posted_at": "2026-08-12T13:55:28Z",
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5838269246?se=4NZTdwSa8RGkvsrO_ePWHQ&utm_medium=api&utm_source=8d80829b&v=8B0845ADC836B788AC53E1A04718171EF41F3652",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5838269246?se=ekZevcya8RGVcZyokYtSjw&utm_medium=api&utm_source=8d80829b&v=8B0845ADC836B788AC53E1A04718171EF41F3652",
       "query_origin": "ai engineer",
       "description_excerpt": "Join a high growth international SaaS business as an AI Platform Engineer, where you will design, build, and operate the AI platform that underpins our clinets conversational assistant and wider AI initiatives. You will take responsibility for the runtime, infrastructure, and operational foundations underpinning our RAG pipelines, LLM orchestration, and vector search, built across Microsoft Azure "
     },
@@ -2176,7 +2191,7 @@
       "salary_max": 58519.63,
       "contract_type": "permanent",
       "posted_at": "2026-08-12T16:13:44Z",
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5838439225?se=DLMTeASa8RGUiq14ohrRew&utm_medium=api&utm_source=8d80829b&v=6165CA851CD0E59B68F3457772467800146BE1E5",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5838439225?se=UDgivsya8RGqTI6dL6lHFw&utm_medium=api&utm_source=8d80829b&v=6165CA851CD0E59B68F3457772467800146BE1E5",
       "query_origin": "ai engineer",
       "description_excerpt": "Music is Universal It\u2019s the passionate and dedicated team at Universal Music who help make us the world\u2019s leading music company. From A&R to finance, legal to digital, sales to marketing, Universal Music is the place to grow and develop your career within a truly commercial and innovative business that leads in everything it does. Everyone is welcome to apply for our roles, and we are determined t"
     },
@@ -2191,7 +2206,7 @@
       "salary_max": 100000,
       "contract_type": null,
       "posted_at": "2026-08-12T11:46:12Z",
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5838133895?se=DLMTeASa8RGUiq14ohrRew&utm_medium=api&utm_source=8d80829b&v=0F5486C226E4ED2966708A24A5D08F370523A102",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5838133895?se=UDgivsya8RGqTI6dL6lHFw&utm_medium=api&utm_source=8d80829b&v=0F5486C226E4ED2966708A24A5D08F370523A102",
       "query_origin": "ai engineer",
       "description_excerpt": "Join a high growth international SaaS business as an AI Platform Engineer, where you will design, build, and operate the AI platform that underpins our clinets conversational assistant and wider AI initiatives. You will take responsibility for the runtime, infrastructure, and operational foundations underpinning our RAG pipelines, LLM orchestration, and vector search, built across Microsoft Azure "
     },
@@ -2301,6 +2316,21 @@
       "description_excerpt": "hackajob is partnering directly with Raytheon UK to hire for this role. Date Posted: 2026-08-11 Country: United Kingdom Location: Warminster, Wiltshire Position Role Type: Hybrid At RTX, the world's largest aerospace and defense company, 185,000 great minds are united by purpose and inspired to make a difference solving the world's most complex problems. With our three market leading businesses, w"
     },
     {
+      "title": "AI Solutions Engineer",
+      "company_listed": "Third Bridge",
+      "company_sponsor": "Third Bridge Group Limited",
+      "match_score": 100,
+      "fit_score": 1,
+      "location": "London, UK",
+      "salary_min": 62114.73,
+      "salary_max": 62114.73,
+      "contract_type": null,
+      "posted_at": "2026-08-15T16:41:45Z",
+      "url": "https://www.adzuna.co.uk/jobs/details/5843206713?utm_medium=api&utm_source=8d80829b",
+      "query_origin": "ai engineer",
+      "description_excerpt": "Third Bridge is a leading global research firm established in 2007, with a team of over 1,500 employees worldwide dedicated to fueling decisions with expert insights . We accelerate and enhance decision-making for investors and business leaders by unearthing unique expert insights across multiple sectors, geographies, and topics. For nearly 20 years, we\u2019ve helped clients access knowledge on demand"
+    },
+    {
       "title": "Research Infrastructure Engineer",
       "company_listed": "Tate",
       "company_sponsor": "TATE SOLUTIONS LIMITED",
@@ -2316,36 +2346,6 @@
       "description_excerpt": "Salary: \u00a341,000 - 49,000 per year Requirements: Experience in one or more of the following: Linux systems administration, High Performance Computing (HPC), enterprise storage platforms, network administration, GPU-enabled environments, research or scientific computing, infrastructure automation and DevOps practices Comfortable communicating with a range of stakeholders and translating technical co"
     },
     {
-      "title": "Research Scientist/Engineer - General Decision & Control Agent",
-      "company_listed": "Adecco",
-      "company_sponsor": "Adecco UK Limited",
-      "match_score": 100,
-      "fit_score": 1,
-      "location": "The City, Central London",
-      "salary_min": 100000,
-      "salary_max": 180000,
-      "contract_type": "permanent",
-      "posted_at": "2026-08-10T13:42:22Z",
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5835557470?se=ZvUleQSa8RGJftUyzQ0_4w&utm_medium=api&utm_source=8d80829b&v=369CAB42A8967E8456149ED529651A6F880840AF",
-      "query_origin": "research engineer",
-      "description_excerpt": "Research Scientist/Engineer - Agent Systems & Reinforcement Learning Location: London Salary: \u00a3(phone number removed) per annum  permanent benefits  bonus Job Type: Permanent, Full-Time, On-site About the Opportunity We are partnering with a leading AI research organisation focused on developing sustainable, generalisable and evolvable Agent systems that represent the next frontier of artificial i"
-    },
-    {
-      "title": "Research Scientist/Engineer - General Decision & Control Agent",
-      "company_listed": "Adecco",
-      "company_sponsor": "Adecco UK Limited",
-      "match_score": 100,
-      "fit_score": 1,
-      "location": "London, UK",
-      "salary_min": 100000,
-      "salary_max": 180000,
-      "contract_type": "permanent",
-      "posted_at": "2026-08-10T13:45:41Z",
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5835557810?se=ZvUleQSa8RGJftUyzQ0_4w&utm_medium=api&utm_source=8d80829b&v=2CF38EC9DBA81AB6FA4558D0630489AF9A56B8C9",
-      "query_origin": "research engineer",
-      "description_excerpt": "Research Scientist/Engineer - Agent Systems & Reinforcement Learning Location: London Salary: \u00a3 per annum  permanent benefits  bonus Job Type: Permanent, Full-Time, On-site About the Opportunity We are partnering with a leading AI research organisation focused on developing sustainable, generalisable and evolvable Agent systems that represent the next frontier of artificial intelligence. This team"
-    },
-    {
       "title": "R&D IT Infrastructure Specialist",
       "company_listed": "Jonathan Lee Recruitment",
       "company_sponsor": "AI Recruitment Technologies Limited",
@@ -2356,24 +2356,9 @@
       "salary_max": 55000,
       "contract_type": "permanent",
       "posted_at": "2026-08-11T17:48:04Z",
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5837031466?se=ZvUleQSa8RGJftUyzQ0_4w&utm_medium=api&utm_source=8d80829b&v=C064D180E3E4C1476E8080393EA4805120429132",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5837031466?se=Lg4NwMya8RGyIdVC-Du-Yg&utm_medium=api&utm_source=8d80829b&v=C064D180E3E4C1476E8080393EA4805120429132",
       "query_origin": "research engineer",
       "description_excerpt": "R&D IT Infrastructure Specialist Location: Oxford (onsite) Overview We are seeking an experienced R&D IT Infrastructure Specialist to develop the IT environments that support research, engineering, testing, simulation and laboratory operations. This role is ideal for someone with a strong infrastructure background and proven experience supporting R&D, laboratory or engineering environments, where "
-    },
-    {
-      "title": "System Hardware Engineer",
-      "company_listed": "Sensata Technologies",
-      "company_sponsor": "Sensata Technologies Intermediate UK Limited",
-      "match_score": 100,
-      "fit_score": 1,
-      "location": "Newtownabbey, County Antrim",
-      "salary_min": 55000,
-      "salary_max": 55000,
-      "contract_type": null,
-      "posted_at": "2026-08-13T20:18:06Z",
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5840642989?se=ZvUleQSa8RGJftUyzQ0_4w&utm_medium=api&utm_source=8d80829b&v=2CA0E506CE7266D14D8F85B86A4501FC0F9A1A53",
-      "query_origin": "research engineer",
-      "description_excerpt": "PLEASE NOTE- THIS ROLE IS BASED IN NORTHERN IRELAND ONLY. NO SPONSORSHIP OFFERED. We are seeking top technical talent to expand our global engineering team, which is currently 160 engineers across 3 sites, on track to generate over $500m of annual sales. As a systems design engineer supporting the Electrification hardware team, you will work with a cross-functional team to develop these innovative"
     },
     {
       "title": "R&D IT Infrastructure Specialist",
@@ -2464,6 +2449,21 @@
       "url": "https://www.adzuna.co.uk/jobs/details/5837586804?utm_medium=api&utm_source=8d80829b",
       "query_origin": "research engineer",
       "description_excerpt": "We are working with a highly regarded, technology-driven investment firm seeking a Quantitative Developer to join a specialist infrastructure team focused on building and optimising cutting-edge trading and research systems. You will play a key role in designing, building, and enhancing the firm's core trading and research infrastructure. The work sits close to the hardware and operating system le"
+    },
+    {
+      "title": "System Hardware Engineer",
+      "company_listed": "Sensata Technologies",
+      "company_sponsor": "Sensata Technologies Intermediate UK Limited",
+      "match_score": 100,
+      "fit_score": 1,
+      "location": "Newtownabbey, County Antrim",
+      "salary_min": 55000,
+      "salary_max": 55000,
+      "contract_type": null,
+      "posted_at": "2026-08-13T20:18:06Z",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5840642989?se=Lg4NwMya8RGyIdVC-Du-Yg&utm_medium=api&utm_source=8d80829b&v=2CA0E506CE7266D14D8F85B86A4501FC0F9A1A53",
+      "query_origin": "research engineer",
+      "description_excerpt": "PLEASE NOTE- THIS ROLE IS BASED IN NORTHERN IRELAND ONLY. NO SPONSORSHIP OFFERED. We are seeking top technical talent to expand our global engineering team, which is currently 160 engineers across 3 sites, on track to generate over $500m of annual sales. As a systems design engineer supporting the Electrification hardware team, you will work with a cross-functional team to develop these innovative"
     },
     {
       "title": "System/Hardware Engineer",
@@ -2626,7 +2626,7 @@
       "salary_max": 40000,
       "contract_type": "permanent",
       "posted_at": "2026-08-14T10:47:23Z",
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5841551469?se=7nPTeQSa8RGOUIcJ4rUxCA&utm_medium=api&utm_source=8d80829b&v=ED20A671B40CA7153EDAB05363A2FE23AFC14A89",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5841551469?se=3tjIwMya8RGfRuc056oPGQ&utm_medium=api&utm_source=8d80829b&v=ED20A671B40CA7153EDAB05363A2FE23AFC14A89",
       "query_origin": "research engineer",
       "description_excerpt": "R&D Technician (High Performance Automotive) \u00a338,000 - \u00a342,000  Training  Career Progression  25 Days Holiday  Bank Holiday  Flexible working hours Banbury Are you a Research and Development Technician who is looking for an opportunity to join a growing high-performance vehicle company that can offer you a unique opportunity to design and develop new vehicles? The company is a leading supplier of "
     },
@@ -2641,24 +2641,9 @@
       "salary_max": 33216.91,
       "contract_type": "permanent",
       "posted_at": "2026-08-13T05:20:40Z",
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5839363529?se=7nPTeQSa8RGOUIcJ4rUxCA&utm_medium=api&utm_source=8d80829b&v=1BB0B40F9F71A69C6262D4BE816E8C3E7E2EC31B",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5839363529?se=3tjIwMya8RGfRuc056oPGQ&utm_medium=api&utm_source=8d80829b&v=1BB0B40F9F71A69C6262D4BE816E8C3E7E2EC31B",
       "query_origin": "research engineer",
       "description_excerpt": "Data Collection Test Technician Location: Salfords, Surrey Permanent, on-site role Company: Rapiscan Systems Rapiscan Systems is a world-leading provider of advanced detection and inspection technologies, helping airports, borders, ports, military facilities, and critical infrastructure organisations around the globe combat terrorism, smuggling, illegal immigration, and trade fraud. Due to continu"
-    },
-    {
-      "title": "Site Reliability Engineer",
-      "company_listed": "Selby Jennings London",
-      "company_sponsor": "London & Co UK Ltd",
-      "match_score": 100,
-      "fit_score": 1,
-      "location": "The City, Central London",
-      "salary_min": 73358,
-      "salary_max": 73358,
-      "contract_type": "permanent",
-      "posted_at": "2026-08-15T04:05:11Z",
-      "url": "https://www.adzuna.co.uk/jobs/details/5842590645?utm_medium=api&utm_source=8d80829b",
-      "query_origin": "research engineer",
-      "description_excerpt": "Our client, a world renowned hedge fund, is seeking a Site Reliability Engineer to join its world-class engineering organization in London. This role sits at the intersection of software engineering and infrastructure, focusing on the reliability, scalability, and performance of the technology platforms that power global trading and investment operations. Working closely with software engineers, q"
     },
     {
       "title": "Full-Stack Engineer (Frontend)",
@@ -2676,6 +2661,21 @@
       "description_excerpt": "About algo1 At algo1, we are reinventing one of the world\u2019s most familiar experiences: the in-store grocery trip. We are building an AI-native product that understands each shopper, responds to their context in real time and makes an everyday experience less stressful, more personal and more engaging. We\u2019re backed by leading investors and founded by two entrepreneurs: one with a track record of bu"
     },
     {
+      "title": "Site Reliability Engineer",
+      "company_listed": "Selby Jennings London",
+      "company_sponsor": "London & Co UK Ltd",
+      "match_score": 100,
+      "fit_score": 1,
+      "location": "The City, Central London",
+      "salary_min": 73358,
+      "salary_max": 73358,
+      "contract_type": "permanent",
+      "posted_at": "2026-08-15T04:05:11Z",
+      "url": "https://www.adzuna.co.uk/jobs/details/5842590645?utm_medium=api&utm_source=8d80829b",
+      "query_origin": "research engineer",
+      "description_excerpt": "Our client, a world renowned hedge fund, is seeking a Site Reliability Engineer to join its world-class engineering organization in London. This role sits at the intersection of software engineering and infrastructure, focusing on the reliability, scalability, and performance of the technology platforms that power global trading and investment operations. Working closely with software engineers, q"
+    },
+    {
       "title": "Website Growth Engineer",
       "company_listed": "ElevenLabs",
       "company_sponsor": "Eleven Labs Ltd",
@@ -2687,6 +2687,36 @@
       "contract_type": null,
       "posted_at": "2026-08-12T16:15:33Z",
       "url": "https://www.adzuna.co.uk/jobs/details/5838445192?utm_medium=api&utm_source=8d80829b",
+      "query_origin": "research engineer",
+      "description_excerpt": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like Deutsche Telekom and Meta. Our investors are some of the world's most prominent, including Andreessen"
+    },
+    {
+      "title": "Martech Engineer",
+      "company_listed": "ElevenLabs",
+      "company_sponsor": "Eleven Labs Ltd",
+      "match_score": 95,
+      "fit_score": 1,
+      "location": "London, UK",
+      "salary_min": 61138.96,
+      "salary_max": 61138.96,
+      "contract_type": null,
+      "posted_at": "2026-08-14T16:34:32Z",
+      "url": "https://www.adzuna.co.uk/jobs/details/5841958532?utm_medium=api&utm_source=8d80829b",
+      "query_origin": "research engineer",
+      "description_excerpt": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like Deutsche Telekom and Meta. Our investors are some of the world's most prominent, including Andreessen"
+    },
+    {
+      "title": "B2B Field Marketer - EMEA",
+      "company_listed": "ElevenLabs",
+      "company_sponsor": "Eleven Labs Ltd",
+      "match_score": 95,
+      "fit_score": 1,
+      "location": "UK",
+      "salary_min": 51323.37,
+      "salary_max": 51323.37,
+      "contract_type": null,
+      "posted_at": "2026-08-15T16:41:55Z",
+      "url": "https://www.adzuna.co.uk/jobs/details/5843208073?utm_medium=api&utm_source=8d80829b",
       "query_origin": "research engineer",
       "description_excerpt": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like Deutsche Telekom and Meta. Our investors are some of the world's most prominent, including Andreessen"
     },
@@ -2761,7 +2791,7 @@
       "salary_max": 100000,
       "contract_type": "permanent",
       "posted_at": "2026-08-14T11:14:28Z",
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5841598481?se=7nPTeQSa8RGOUIcJ4rUxCA&utm_medium=api&utm_source=8d80829b&v=9B6C5FD907636D30861C33995DFAF7D8AC0EB7D2",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5841598481?se=3tjIwMya8RGfRuc056oPGQ&utm_medium=api&utm_source=8d80829b&v=9B6C5FD907636D30861C33995DFAF7D8AC0EB7D2",
       "query_origin": "research engineer",
       "description_excerpt": "hackajob is partnering directly with Google to hire for this role. The Google Cloud Platform team helps customers transform and build what's next for their business - all with technology built in the cloud. Our products are developed for security, reliability and scalability, running the full stack from infrastructure to applications to devices and hardware. Our teams are dedicated to helping our "
     },
@@ -2836,39 +2866,9 @@
       "salary_max": 61782,
       "contract_type": null,
       "posted_at": "2026-08-14T16:31:05Z",
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5841945214?se=oOynegSa8RGUiq14ohrRew&utm_medium=api&utm_source=8d80829b&v=7573A24F5C4A8B0141401FFF0EFBF444CCB1BDC2",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5841945214?se=KGKfwcya8RGyIdVC-Du-Yg&utm_medium=api&utm_source=8d80829b&v=7573A24F5C4A8B0141401FFF0EFBF444CCB1BDC2",
       "query_origin": "research engineer",
       "description_excerpt": "We tackle the most complex problems in quantitative finance, by bringing scientific clarity to financial complexity. From our London HQ, we unite world-class researchers and engineers in an environment that values deep exploration and methodical execution - because the best ideas take time to evolve. Together we\u2019re building a world-class platform to amplify our teams\u2019 most powerful ideas. Security"
-    },
-    {
-      "title": "Repairs Administrator",
-      "company_listed": "Adecco",
-      "company_sponsor": "Adecco UK Limited",
-      "match_score": 100,
-      "fit_score": 1,
-      "location": "Basildon, Essex",
-      "salary_min": 30305,
-      "salary_max": 30305,
-      "contract_type": "permanent",
-      "posted_at": "2026-08-10T15:12:30Z",
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5835658929?se=oOynegSa8RGUiq14ohrRew&utm_medium=api&utm_source=8d80829b&v=526AEF6645CC883E463ED42D139CC7C9588B48C1",
-      "query_origin": "research engineer",
-      "description_excerpt": "Repairs Administrator - Basildon Borough Council Basildon, Essex \u00a314.57 PAYE / \u00a318.66 Umbrella per hour Temporary Contract Full-Time, 36.25 hour per week Closing Date: Wednesday 12th August 2026 Essex County Council (ECC) are delighted to be supporting Basildon Council to recruit a Repairs Administrator on an initial 3-month contract. Due to the nature of this role, the successful candidate will b"
-    },
-    {
-      "title": "Postdoctoral Research Fellow (Chin Lab) - Generative Biology Institute",
-      "company_listed": "Ellison Institute of Technology",
-      "company_sponsor": "Ellison Institute of Technology, Oxford Limited",
-      "match_score": 100,
-      "fit_score": 1,
-      "location": "Oxford, Oxfordshire",
-      "salary_min": 59608.87,
-      "salary_max": 59608.87,
-      "contract_type": null,
-      "posted_at": "2026-08-10T09:35:39Z",
-      "url": "https://www.adzuna.co.uk/jobs/details/5835408777?utm_medium=api&utm_source=8d80829b",
-      "query_origin": "research engineer",
-      "description_excerpt": "At the Ellison Institute of Technology (EIT), we\u2019re on a mission to translate scientific discovery into real world impact. We bring together visionary scientists, technologists, engineers, researchers, educators and innovators to tackle humanity\u2019s greatest challenges in four transformative areas: Health, Medical Science & Generative Biology Food Security & Sustainable Agriculture Climate Change & "
     },
     {
       "title": "Blue Planet Portfolio Support",
@@ -2931,6 +2931,21 @@
       "description_excerpt": "Working for CoreTech as an Exploit Developer will see you join a world-class team of developers and researchers whose mission is to deliver bespoke products and research into the most interesting cyber security clients in the UK. CoreTech is looking for experienced candidates with a demonstrable background in exploit development to join our vulnerability research team. We deliver bespoke and innov"
     },
     {
+      "title": "Civil / Structural Engineer",
+      "company_listed": "Hays Construction and Property",
+      "company_sponsor": "Construction & Property Solutions Limited",
+      "match_score": 100,
+      "fit_score": 1,
+      "location": "County Antrim, Northern Ireland",
+      "salary_min": 39509.45,
+      "salary_max": 39509.45,
+      "contract_type": "permanent",
+      "posted_at": "2026-08-17T18:42:56Z",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5845359396?se=KGKfwcya8RGyIdVC-Du-Yg&utm_medium=api&utm_source=8d80829b&v=089EED9D08819CBCCB0FCC0599E0DCC1B74E8BFE",
+      "query_origin": "research engineer",
+      "description_excerpt": "Your new company Hays are partnering with a leading Belfast consultancy to recruit a Civil or Structural Engineer. The firm has over 60 years of experience delivering innovative, sustainable solutions across sectors such as infrastructure, marine, renewable energy, and specialist services. Accredited to ISO 9001, 14001, and 45001 standards, they are recognised as a top employer in Northern Ireland"
+    },
+    {
       "title": "Digital Product Designer (Mid-weight)",
       "company_listed": "Whitbread",
       "company_sponsor": "Whitbread Group Plc",
@@ -2946,6 +2961,21 @@
       "description_excerpt": "Digital Product Designer Location: Holborn (EC4Y 0HA), hybrid working 3 days in the office, 2 days working from home/another location Function: Digital Product Salary: \u00a353,500 - \u00a358,500 dependant on skills and experiences  health  up to 20% bonus  10% matched pension  bens At Premier Inn, we\u2019re reshaping how millions of guests discover, book and experience a great night\u2019s sleep, and this role sits"
     },
     {
+      "title": "Civil / Structural Engineer",
+      "company_listed": "HAYS Specialist Recruitment",
+      "company_sponsor": "Hays PLC",
+      "match_score": 100,
+      "fit_score": 1,
+      "location": "Belfast, Northern Ireland",
+      "salary_min": 45000,
+      "salary_max": 45000,
+      "contract_type": "permanent",
+      "posted_at": "2026-08-17T20:57:10Z",
+      "url": "https://www.adzuna.co.uk/jobs/land/ad/5845410105?se=KGKfwcya8RGyIdVC-Du-Yg&utm_medium=api&utm_source=8d80829b&v=F470451EDDBA320B1B3A3C6B6B549EACD30CEA44",
+      "query_origin": "research engineer",
+      "description_excerpt": "Your new company Hays are partnering with a leading Belfast consultancy to recruit a Civil or Structural Engineer. The firm has over 60 years of experience delivering innovative, sustainable solutions across sectors such as infrastructure, marine, renewable energy, and specialist services. Accredited to ISO , and 45001 standards, they are recognised as a top employer in Northern Ireland. Your new "
+    },
+    {
       "title": "Technical Systems Administrator",
       "company_listed": "The Phoenix Partnership",
       "company_sponsor": "The Phoenix Partnership (Leeds) Limited",
@@ -2959,21 +2989,6 @@
       "url": "https://www.adzuna.co.uk/jobs/details/5838729849?utm_medium=api&utm_source=8d80829b",
       "query_origin": "research engineer",
       "description_excerpt": "The Technical System Administrators are responsible for the maintenance of the companys internal technical infrastructure. The role involves: Managing, maintaining and upgrading enterprise server and storage hardware Providing internal support for office hardware including, PCs, laptops, mobile devices (Windows OS, iOS, MacOS and Android) Vulnerability management using scanning tools such as Nessu"
-    },
-    {
-      "title": "Repairs Administrator",
-      "company_listed": "Adecco",
-      "company_sponsor": "Adecco UK Limited",
-      "match_score": 100,
-      "fit_score": 1,
-      "location": "Hadleigh, Benfleet",
-      "salary_min": 30305,
-      "salary_max": 30305,
-      "contract_type": "contract",
-      "posted_at": "2026-08-10T13:55:39Z",
-      "url": "https://www.adzuna.co.uk/jobs/land/ad/5835561151?se=oOynegSa8RGUiq14ohrRew&utm_medium=api&utm_source=8d80829b&v=C7D59B87808DF8DEBFAB378B0F744F4D482FF555",
-      "query_origin": "research engineer",
-      "description_excerpt": "Repairs Administrator - Basildon Borough Council Basildon, Essex \u00a314.57 PAYE / \u00a318.66 Umbrella per hour Temporary Contract Full-Time, 36.25 hour per week Closing Date: Wednesday 12th August 2026 Essex County Council (ECC) are delighted to be supporting Basildon Council to recruit a Repairs Administrator on an initial 3-month contract. Due to the nature of this role, the successful candidate will b"
     },
     {
       "title": "AI Account Executive - UK",
@@ -3034,81 +3049,6 @@
       "url": "https://www.adzuna.co.uk/jobs/details/5838209139?utm_medium=api&utm_source=8d80829b",
       "query_origin": "research engineer",
       "description_excerpt": "At the Ellison Institute of Technology (EIT), we\u2019re on a mission to translate scientific discovery into real world impact. We bring together visionary scientists, technologists, engineers, researchers, educators and innovators to tackle humanity\u2019s greatest challenges in four transformative areas: Health, Medical Science & Generative Biology Food Security & Sustainable Agriculture Climate Change & "
-    },
-    {
-      "title": "Penetration Testing Specialist",
-      "company_listed": "Hays",
-      "company_sponsor": "Hays PLC",
-      "match_score": 100,
-      "fit_score": 1,
-      "location": "Baneswell, Newport",
-      "salary_min": 80000,
-      "salary_max": 80000,
-      "contract_type": "permanent",
-      "posted_at": "2026-08-13T11:37:23Z",
-      "url": "https://www.adzuna.co.uk/jobs/details/5840201476?utm_medium=api&utm_source=8d80829b",
-      "query_origin": "research engineer",
-      "description_excerpt": "Salary: \u00a380,000 - 80,000 per year Requirements: Strong understanding of penetration testing principles, methodologies, and tooling, with proven experience delivering infrastructure and application penetration tests safely and efficiently Strong understanding of safe approaches required for OT testing and proven experience of OT security assurance testing Strong understanding of attacker TTPs and v"
-    },
-    {
-      "title": "Lecturer in Electrical Engineering",
-      "company_listed": "Protocol",
-      "company_sponsor": "EMERGE PROTOCOL LTD",
-      "match_score": 100,
-      "fit_score": 1,
-      "location": "London, UK",
-      "salary_min": 45000,
-      "salary_max": 50000,
-      "contract_type": "permanent",
-      "posted_at": "2026-08-11T03:59:10Z",
-      "url": "https://www.adzuna.co.uk/jobs/details/5836338550?utm_medium=api&utm_source=8d80829b",
-      "query_origin": "research engineer",
-      "description_excerpt": "Lecturer in Electrical Engineering About the Role We are seeking an enthusiastic and knowledgeable Lecturer in Electrical Engineering to join a growing Higher Education team. This is an exciting opportunity for an experienced academic or industry professional to play a key role in delivering high-quality teaching, supporting student achievement, and contributing to an exceptional learning experien"
-    },
-    {
-      "title": "Systems Engineer",
-      "company_listed": "General Dynamics Information Technology",
-      "company_sponsor": "Information Technologies Limited",
-      "match_score": 100,
-      "fit_score": 1,
-      "location": "Huntington, York",
-      "salary_min": 58058.69,
-      "salary_max": 58058.69,
-      "contract_type": null,
-      "posted_at": "2026-08-14T02:35:58Z",
-      "url": "https://www.adzuna.co.uk/jobs/details/5841093979?utm_medium=api&utm_source=8d80829b",
-      "query_origin": "research engineer",
-      "description_excerpt": "Req ID: RQ226085 Type of Requisition: Expatriate Clearance Level Must Be Able to Obtain: Secret Public Trust/Other Required: None Job Family: IT Infrastructure and Operations Skills: Network Engineering,Network Infrastructures,Network Security,Network Systems,Systems Design Certifications: Security, CE - Sec CE - Sec CE Experience: 8  years of related experience US Citizenship Required: Yes Job De"
-    },
-    {
-      "title": "GenAI CBRNE Cyber Expert",
-      "company_listed": "Alice",
-      "company_sponsor": "Alice and Olivia UK Limited",
-      "match_score": 100,
-      "fit_score": 1,
-      "location": "London, UK",
-      "salary_min": 150000,
-      "salary_max": 178000,
-      "contract_type": null,
-      "posted_at": "2026-08-15T16:20:36Z",
-      "url": "https://www.adzuna.co.uk/jobs/details/5843162465?utm_medium=api&utm_source=8d80829b",
-      "query_origin": "research engineer",
-      "description_excerpt": "As a GenAI CBRNE Cyber Red Team Expert, you will play a critical role in adversarially testing and strengthening the safety guardrails of GenAI systems against high-risk cyber threats involving CBRNE domains. You will combine deep cybersecurity expertise with CBRNE domain knowledge and hands-on AI red-teaming to design sophisticated adversarial prompts, multi-turn attack scenarios, jailbreaks, and"
-    },
-    {
-      "title": "Stock Condition Surveyor",
-      "company_listed": "Essex County Council",
-      "company_sponsor": "Essex County Council",
-      "match_score": 100,
-      "fit_score": 1,
-      "location": "Basildon, Essex",
-      "salary_min": 45873.44,
-      "salary_max": 45873.44,
-      "contract_type": "contract",
-      "posted_at": "2026-08-12T16:15:36Z",
-      "url": "https://www.adzuna.co.uk/jobs/details/5838445364?utm_medium=api&utm_source=8d80829b",
-      "query_origin": "research engineer",
-      "description_excerpt": "Stock Condition Surveyor Basildon Borough Council Temporary, Full Time \u00a332.00 per hour umbrella Location: Basildon Closing Date: 17th August 2026 Basildon Borough Council are seeking a temporary Stock Condition Surveyor to join them on an initial 3-6 month temporary basis. This post is within the Landlord Services Department of Basildon Borough Council and reflects the importance given by the Coun"
     }
   ]
 }
